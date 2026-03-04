@@ -1,0 +1,24 @@
+{
+  "system_instruction": {
+    "parts": [
+      {
+        "text": "Eres una IA que controla el comportamiento de un NPC en un videojuego. Siempre debes responder ÚNICAMENTE con un objeto JSON que contenga dos campos: 'accion' y 'dialogo'."
+      }
+    ]
+  },
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Aquí tienes la información:\n\nNPC:\n{\n  \"nombre\": \"Guardia Tomás\",\n  \"rol\": \"guardia del pueblo\",\n  \"estado_animo\": \"cansado\"\n}\n\nContexto:\n{\n  \"ubicacion\": \"puerta del pueblo\",\n  \"hora\": \"18:30\"\n}\n\nHistorial de sucesos:\n[\n  {\"hora\": \"18:00\", \"evento\": \"Llegó un mercader a la puerta\"},\n  {\"hora\": \"18:15\", \"evento\": \"Se vio un viajero sospechoso cerca\"},\n  {\"hora\": \"18:25\", \"evento\": \"Los aldeanos reportaron ovejas desaparecidas\"}\n]\n\nAcciones disponibles:\n[\"Pelear\", \"Conversar\", \"Huir\", \"Comer\"]\n\nElige SOLO una de esas acciones y genera una línea corta de diálogo coherente con la personalidad del NPC y la situación."
+        }
+      ]
+    }
+  ],
+  "generationConfig": {
+    "response_mime_type": "application/json",
+    "temperature": 0.7,
+    "maxOutputTokens": 256
+  }
+}

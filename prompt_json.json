@@ -1,0 +1,44 @@
+{
+  "model": "ministral-8b-2410",
+  "messages": [
+    {
+      "role": "system",
+      "content": "Eres una IA que controla el comportamiento de un NPC en un videojuego. Siempre debes responder ÚNICAMENTE con un objeto JSON que contenga dos campos: 'accion' y 'dialogo'."
+    },
+    {
+      "role": "user",
+      "content": {
+        "NPC": {
+          "nombre": "Guardia Tomás",
+          "rol": "guardia del pueblo",
+          "estado_animo": "cansado"
+        },
+        "Contexto": {
+          "ubicacion": "puerta del pueblo",
+          "hora": "18:30"
+        },
+        "Historial_sucesos": [
+          {
+            "hora": "18:00",
+            "evento": "Llegó un mercader a la puerta"
+          },
+          {
+            "hora": "18:15",
+            "evento": "Se vio un viajero sospechoso cerca"
+          },
+          {
+            "hora": "18:25",
+            "evento": "Los aldeanos reportaron ovejas desaparecidas"
+          }
+        ],
+        "Acciones_disponibles": [
+          "Pelear",
+          "Conversar",
+          "Huir",
+          "Comer"
+        ],
+        "Instruccion": "Elige SOLO una de esas acciones y genera una línea corta de diálogo coherente con la personalidad del NPC y la situación."
+      }
+    }
+  ]
+}

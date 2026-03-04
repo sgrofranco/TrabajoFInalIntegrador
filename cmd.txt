@@ -1,0 +1,1 @@
+python PruebaMistral.py --prompt_json prompt_json.json --model ministral-8b-2410 --minutes 15 --plots
