@@ -1,0 +1,7 @@
+=== RESUMEN SESIÓN ===
+Proveedor: cerebras | Modelo: llama-4-scout-17b-16e-instruct
+NPCs: 5 | Duración: 15 min | Media intervalo: 20.0s
+Requests totales: 212 | OK: 212 | Errores: 0 | JSON inválido: 0
+Latencia p50: 0.349s | p95: 0.485s
+Tokens totales (in+out): 68191
+Costo: N/A (sin precios configurados).

@@ -1,0 +1,7 @@
+=== RESUMEN SESIÓN ===
+Proveedor: cerebras | Modelo: llama-3.3-70b
+NPCs: 5 | Duración: 15 min | Media intervalo: 20.0s
+Requests totales: 211 | OK: 211 | Errores: 0 | JSON inválido: 0
+Latencia p50: 0.401s | p95: 0.882s
+Tokens totales (in+out): 79106
+Costo: N/A (sin precios configurados).
