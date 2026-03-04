@@ -1,0 +1,6 @@
+=== RESUMEN SESIÓN - ETAPA 3 ===
+Modelo detectado gpt-4.1-nano-2025-04-14
+Requests totales 45  OK 45
+Latencia p50 1.090s  p95 1.648s
+Tokens totales (in+out) 34029
+Exportación completa	 CSVs y los 4 gráficos estilo 'Etapa 1' han sido generados.

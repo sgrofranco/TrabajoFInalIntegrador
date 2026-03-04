@@ -1,0 +1,4 @@
+minute,tokens_in_min,tokens_out_min,tokens_total_min,latency_mean_s,latency_med_s,requests,ok_json,invalid_json,cost_min_usd
+0,12610,1578,14188,1.2931904761904762,1.12,21,21,0,0.0
+1,14352,1419,15771,1.1329473684210527,1.109,19,19,0,0.0
+2,3713,357,4070,0.9966000000000002,0.979,5,5,0,0.0

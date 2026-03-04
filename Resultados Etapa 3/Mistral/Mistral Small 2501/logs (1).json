@@ -1,0 +1,5176 @@
+[
+{
+    "id": "c5231ac83dfd40d9bb82ec16d7b59662",
+    "created": 1772401054,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 455,
+        "total_tokens": 538,
+        "completion_tokens": 83,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El granjero está en óptimas condiciones y es de mañana, hora de trabajar.\",\n  \"Dialogo\": \"¡Buenos días! Hoy el campo me espera.\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Comer\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 904
+},
+{
+    "id": "959d0000bd4f4818b1177e206c2e3cfc",
+    "created": 1772401055,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 455,
+        "total_tokens": 554,
+        "completion_tokens": 99,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador no ha interactuado, es de mañana y tengo todas las estadísticas óptimas. Es hora de empezar el trabajo.\",\n  \"Dialogo\": \"¡Buenos días! Hoy será un gran día para cortar leña.\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 980
+},
+{
+    "id": "b3989559a82d49a1ad4baab726049368",
+    "created": 1772401056,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 494,
+        "total_tokens": 587,
+        "completion_tokens": 93,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está trabajando y es temprano en la mañana. Mis estadísticas están óptimas y mi personalidad es disciplinada.\",\n  \"Dialogo\": \"Buenos días. Hoy también hay mucho que hacer.\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 930
+},
+{
+    "id": "320451ca73b14935ac43712a5a1dee58",
+    "created": 1772401057,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 534,
+        "total_tokens": 616,
+        "completion_tokens": 82,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está trabajando y el descanso es óptimo. Priorizar trabajo.\",\n  \"Dialogo\": \"Buenos días. Hoy también hay mucho que hacer.\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 804
+},
+{
+    "id": "5de75a820ca14343841aeed618b17fc3",
+    "created": 1772401058,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 572,
+        "total_tokens": 660,
+        "completion_tokens": 88,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El guardia está en óptimas condiciones y ve a otros aldeanos trabajando. Es su deber unirse a ellos.\",\n  \"Dialogo\": \"Buenos días. Hoy también hay mucho que hacer.\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 971
+},
+{
+    "id": "6a954fb610494f9183026963bf651b24",
+    "created": 1772401059,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 536,
+        "total_tokens": 622,
+        "completion_tokens": 86,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Es de mañana y todos están trabajando. Como minero, debo seguir su ejemplo.\",\n  \"Dialogo\": \"¡Buenos días! Hoy toca extraer minerales.\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 810
+},
+{
+    "id": "17566e4d8f9744a194b5e94e3712bc01",
+    "created": 1772401089,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 694,
+        "total_tokens": 784,
+        "completion_tokens": 90,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está trabajando y tiene estadísticas óptimas. El contexto sugiere que todos están trabajando.\",\n  \"Dialogo\": \"¡Buenos días! ¿Necesitas ayuda con algo?\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 946
+},
+{
+    "id": "4f8331dbb4134a978c90543242931923",
+    "created": 1772401103,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 615,
+        "total_tokens": 708,
+        "completion_tokens": 93,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El NPC está en horario de trabajo y sus stats están en niveles óptimos. El jugador no está interactuando directamente.\",\n  \"Dialogo\": \"¡Buenos días! Hoy toca extraer minerales.\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1030
+},
+{
+    "id": "e2fa6b61bcf4419f95784d8c76a23b56",
+    "created": 1772401104,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 647,
+        "total_tokens": 738,
+        "completion_tokens": 91,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está trabajando y el contexto indica que hay mucho que hacer. Mis stats están en niveles óptimos.\",\n  \"Dialogo\": \"¡Buenos días! ¿Necesitas ayuda con algo?\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 936
+},
+{
+    "id": "2087ed4d10bd4bfe9e3db2a6e6c8c206",
+    "created": 1772401106,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 672,
+        "total_tokens": 754,
+        "completion_tokens": 82,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador no está presente en la memoria reciente. Las estadísticas están en buen estado. Continuar trabajando es la prioridad.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 844
+},
+{
+    "id": "b4d7576b7b154cf9872779f0e308b660",
+    "created": 1772401107,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 648,
+        "total_tokens": 741,
+        "completion_tokens": 93,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está trabajando y el contexto es de día. Las stats están en niveles buenos, pero la saciedad está en medio. Priorizo trabajar.\",\n  \"Dialogo\": \"Buen trabajo, sigue así.\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 958
+},
+{
+    "id": "5e881a2bb2274499b7b2fc38e7b190e7",
+    "created": 1772401109,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 663,
+        "total_tokens": 742,
+        "completion_tokens": 79,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador no está presente en la memoria reciente y las stats están óptimas. Continuar con la tarea actual.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1422
+},
+{
+    "id": "5d465583a51a4be09596e55012129dfa",
+    "created": 1772401128,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 735,
+        "total_tokens": 834,
+        "completion_tokens": 99,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador no ha interactuado recientemente. La saciedad está en nivel medio, pero no crítico. El descanso está en nivel bueno. Priorizar trabajo.\",\n  \"Dialogo\": \"¡Buen trabajo a todos! ¡Sigamos así!\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1043
+},
+{
+    "id": "c029ef62569b479395f96ca703abce99",
+    "created": 1772401138,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 690,
+        "total_tokens": 798,
+        "completion_tokens": 108,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El granjero tiene un nivel de saciedad bajo y medio nivel social. El jugador no está interactuando actualmente, por lo que es una buena oportunidad para comer y socializar.\",\n  \"Dialogo\": \"¡Hola! ¿Te gustaría unirte a mí para un refrigerio?\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Jugador\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 940
+},
+{
+    "id": "571e4509db93497a95d44a934dcd5d12",
+    "created": 1772401142,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 673,
+        "total_tokens": 774,
+        "completion_tokens": 101,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de saciedad es bajo, pero no crítico. El nivel de descanso es bueno. El jugador no está interactuando directamente. Priorizar comer para mantener la productividad.\",\n  \"Dialogo\": \"Necesito reponer energías.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1060
+},
+{
+    "id": "9f225f088a084675b37e95c5614dba65",
+    "created": 1772401143,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 641,
+        "total_tokens": 719,
+        "completion_tokens": 78,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Nivel de saciedad bajo, pero no crítico. El jugador no está interactuando. Continuar trabajando.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Comer\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 891
+},
+{
+    "id": "b3c85962152147eebfab909d9fc23d89",
+    "created": 1772401145,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 714,
+        "total_tokens": 827,
+        "completion_tokens": 113,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso es bueno, pero la saciedad y el nivel social están bajos. El jugador no ha interactuado recientemente. Priorizar comer para aumentar la saciedad y luego conversar para aumentar el nivel social.\",\n  \"Dialogo\": \"Necesito comer algo. ¿Quieres acompañarme?\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1350
+},
+{
+    "id": "6c2be30b8fd94e3eb294b84b27da135e",
+    "created": 1772401147,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 742,
+        "total_tokens": 838,
+        "completion_tokens": 96,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está comiendo y ha invitado a otros a unirse. Mi nivel de saciedad es bueno, pero el jugador podría necesitar compañía.\",\n  \"Dialogo\": \"¡Claro! Me encantaría acompañarte.\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Jugador\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1175
+},
+{
+    "id": "04fb8aca725c49e7ba05d93443f918c4",
+    "created": 1772401155,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 719,
+        "total_tokens": 861,
+        "completion_tokens": 142,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está comiendo y ha mencionado que necesita reponer energías. Es de día y el nivel de saciedad es bueno, pero no óptimo. El nivel de descanso es bueno, por lo que no es necesario dormir. El jugador está en un estado de comer, por lo que es apropiado continuar comiendo o conversar.\",\n  \"Dialogo\": \"Buen provecho. ¿Necesitas algo más?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_104\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1280
+},
+{
+    "id": "2718ca190ca24da2b9028d347a18d32f",
+    "created": 1772401156,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 750,
+        "total_tokens": 852,
+        "completion_tokens": 102,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de saciedad es bajo y el granjero 110 está comiendo, es una buena oportunidad para comer y socializar.\",\n  \"Dialogo\": \"¡Hola! ¿Puedo unirme a ti para comer?\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Granjero_110\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1460
+},
+{
+    "id": "262e6ec17ca24a7d9d8bcd969d0f6348",
+    "created": 1772401160,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 806,
+        "total_tokens": 914,
+        "completion_tokens": 108,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está comiendo y ha invitado a otro NPC a unirse. El NPC actual también está comiendo y tiene niveles de saciedad y social altos. No hay necesidad de dormir o trabajar en este momento.\",\n  \"Dialogo\": \"Asiente con la cabeza mientras come.\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1096
+},
+{
+    "id": "31bc86a85f3d4250a871b1087a8d596b",
+    "created": 1772401166,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 807,
+        "total_tokens": 924,
+        "completion_tokens": 117,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Leñador_11) está comiendo y no parece necesitar ayuda. Mi nivel de saciedad es bueno, pero mi nivel social es óptimo. Es un buen momento para conversar y fortalecer relaciones.\",\n  \"Dialogo\": \"¿Cómo te ha ido hoy en el bosque?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_11\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1090
+},
+{
+    "id": "afd7b30df4c5456f8156ff1ab7d52a8b",
+    "created": 1772401167,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 802,
+        "total_tokens": 892,
+        "completion_tokens": 90,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Nivel de saciedad bajo, el jugador está cerca y parece estar comiendo.\",\n  \"Dialogo\": \"¡Hola! ¿Te importa si me uno a ti para comer?\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Leñador_11\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 957
+},
+{
+    "id": "653db5294750485b822e9ec5b75df6e5",
+    "created": 1772401168,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 815,
+        "total_tokens": 929,
+        "completion_tokens": 114,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Guardia_105) está cerca y ha estado conversando. El NPC tiene niveles óptimos de vida, descanso, saciedad y nivel social. El contexto sugiere continuar la conversación.\",\n  \"Dialogo\": \"¿Cómo va tu día en la guardia?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Guardia_105\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1397
+},
+{
+    "id": "a4d992649f7b4a9a9bab96e88d8cf1f6",
+    "created": 1772401169,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 788,
+        "total_tokens": 890,
+        "completion_tokens": 102,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está conversando y ha mostrado interés en acompañarme. Mis stats están bien, pero es importante mantener la interacción social.\",\n  \"Dialogo\": \"¡Me alegra que aceptes! Vamos a ver qué tal está el campo hoy.\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Jugador\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1075
+},
+{
+    "id": "304183b496ab42d68c18e00473950906",
+    "created": 1772401170,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 814,
+        "total_tokens": 894,
+        "completion_tokens": 80,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador no está interactuando directamente. Las stats están bien, pero es de día y es hora de trabajar.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 841
+},
+{
+    "id": "5e61e94451e646c9ab17d1631066ba60",
+    "created": 1772401171,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 731,
+        "total_tokens": 833,
+        "completion_tokens": 102,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de saciedad es crítico, por lo que debo priorizar comer. El granjero 110 está trabajando y no requiere mi atención inmediata.\",\n  \"Dialogo\": \"¡Tengo mucha hambre! Voy a comer algo rápido.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1214
+},
+{
+    "id": "778e9663628b420b87d02bfc551e14cc",
+    "created": 1772401177,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 810,
+        "total_tokens": 913,
+        "completion_tokens": 103,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Leñador_6) está comiendo y el NPC tiene buena saciedad y descanso. Es apropiado continuar conversando.\",\n  \"Dialogo\": \"¡Claro! ¿Qué tal tu trabajo en el bosque hoy?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_6\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 954
+},
+{
+    "id": "a0218ca0b5db43759a3b1ba6adacedff",
+    "created": 1772401178,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 798,
+        "total_tokens": 932,
+        "completion_tokens": 134,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Leñador_11) está comiendo y no parece necesitar ayuda. Mi nivel de descanso está en medio, por lo que no necesito dormir. Tengo suficiente saciedad y vida. El jugador ha sido socialmente activo, por lo que puedo intentar conversar para mantener la interacción.\",\n  \"Dialogo\": \"¿Qué tal el trabajo en el bosque hoy?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_11\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1647
+},
+{
+    "id": "d14318510f8b43cf9872549b854ef78d",
+    "created": 1772401183,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 811,
+        "total_tokens": 915,
+        "completion_tokens": 104,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Leñador_6) ha iniciado una conversación. El NPC tiene estadísticas óptimas y no necesita dormir. Priorizará conversar con el jugador.\",\n  \"Dialogo\": \"El trabajo va bien, gracias por preguntar.\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_6\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1223
+},
+{
+    "id": "672c024cecea40528b576e86743e8588",
+    "created": 1772401184,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 779,
+        "total_tokens": 897,
+        "completion_tokens": 118,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El minero está comiendo y su nivel de saciedad está en medio. No hay urgencia por dormir o trabajar. El granjero está trabajando y el minero podría conversar con él.\",\n  \"Dialogo\": \"¡Hola, granjero! ¿Cómo va el trabajo en el campo?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Granjero_110\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1069
+},
+{
+    "id": "9382f8fbd88442ce8a799ac4cfafbdd7",
+    "created": 1772401188,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 818,
+        "total_tokens": 933,
+        "completion_tokens": 115,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El NPC tiene buen descanso, saciedad y nivel social. El jugador (Leñador_104) acaba de conversar y el NPC está en estado de conversar. Priorizar conversar con el jugador.\",\n  \"Dialogo\": \"¿Has visto algo interesante en el bosque hoy?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_104\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 986
+},
+{
+    "id": "576a7521000e4c059456bcbb615076b6",
+    "created": 1772401189,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 807,
+        "total_tokens": 933,
+        "completion_tokens": 126,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Guardia_105) está conversando y ha mostrado interés en mi trabajo. Mis stats están en niveles medios-altos, y no necesito dormir. Priorizaré seguir conversando para mantener el nivel social alto y aprovechar la interacción.\",\n  \"Dialogo\": \"¡Sí, el bosque está lleno de vida hoy!\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Guardia_105\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1220
+},
+{
+    "id": "0891acd52d924c349d178e80d1779a3f",
+    "created": 1772401193,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 815,
+        "total_tokens": 937,
+        "completion_tokens": 122,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Guardia_105) ha mostrado interés en el trabajo del leñador. El leñador está en un nivel óptimo de vida, descanso, saciedad y nivel social. El contexto sugiere que el jugador está buscando información.\",\n  \"Dialogo\": \"He visto algunas huellas extrañas.\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Guardia_105\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1385
+},
+{
+    "id": "38869f232454422893e0bfabf1323360",
+    "created": 1772401195,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 834,
+        "total_tokens": 944,
+        "completion_tokens": 110,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El granjero está siguiendo al minero y tiene stats en niveles buenos. El minero ha estado trabajando y conversando, por lo que es probable que el granjero continúe siguiendo al minero.\",\n  \"Dialogo\": \"¡Vamos, el campo nos espera!\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Minero_103\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1554
+},
+{
+    "id": "cf663467121e4dfda27d5d5ced48a3d8",
+    "created": 1772401198,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 840,
+        "total_tokens": 955,
+        "completion_tokens": 115,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Granjero_110) ha mostrado interés en trabajar en el campo. Como soy optimista y entusiasta, quiero acompañarlo y seguir su ejemplo.\",\n  \"Dialogo\": \"¡Vamos al campo! ¡Seguro que hoy cosecharemos mucho!\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Granjero_110\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 941
+},
+{
+    "id": "db69607010db482a94c1137e826ac5c1",
+    "created": 1772401200,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 812,
+        "total_tokens": 890,
+        "completion_tokens": 78,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador no está interactuando directamente, y mis stats están en un nivel medio. Continuaré trabajando.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 973
+},
+{
+    "id": "4e1c4fa98b0f4282b57d9e5c5d554805",
+    "created": 1772401201,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 805,
+        "total_tokens": 905,
+        "completion_tokens": 100,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Leñador_11) no ha interactuado recientemente. Las stats están bien, pero hay información relevante sobre huellas extrañas.\",\n  \"Dialogo\": \"¿Has visto algo más en el bosque?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_11\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 905
+},
+{
+    "id": "536e5c33261244ae9406d977618e8953",
+    "created": 1772401202,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 810,
+        "total_tokens": 926,
+        "completion_tokens": 116,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador no está interactuando directamente, pero hay un comentario reciente sobre huellas extrañas. El NPC es optimista y enérgico, y sus stats están en niveles buenos.\",\n  \"Dialogo\": \"¡Huellas extrañas? ¡Vamos a echar un vistazo!\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Leñador_104\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 994
+},
+{
+    "id": "c2d536b927a142e0a161d72c3e97ca7f",
+    "created": 1772401205,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 805,
+        "total_tokens": 903,
+        "completion_tokens": 98,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso es bueno, el jugador mencionó huellas extrañas y otro leñador está siguiendo algo. Es apropiado seguir y apoyar.\",\n  \"Dialogo\": \"Vamos, sigamos las huellas.\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Leñador_6\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1032
+},
+{
+    "id": "985db68ed07b4bcaa6323c6aa2f6aec3",
+    "created": 1772401211,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 814,
+        "total_tokens": 918,
+        "completion_tokens": 104,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Leñador_104) está siguiendo huellas, lo cual es relevante para mi rol como guardia. Debo apoyar y colaborar.\",\n  \"Dialogo\": \"¿Necesitas ayuda con esas huellas?\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Leñador_104\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1377
+},
+{
+    "id": "7f66fe01e93a4dcfa6a47cf21987c05f",
+    "created": 1772401221,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 857,
+        "total_tokens": 970,
+        "completion_tokens": 113,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El minero está siguiendo al granjero al campo. Tiene niveles de vida óptimos, descanso medio, saciedad y nivel social medios. El contexto indica que está en una actividad grupal.\",\n  \"Dialogo\": \"¡Vamos, granjero! ¡El campo nos espera!\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Granjero_110\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1103
+},
+{
+    "id": "f7babda2eab7438caa033f32703fb2fa",
+    "created": 1772401222,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 846,
+        "total_tokens": 961,
+        "completion_tokens": 115,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El granjero está en el campo trabajando con el minero. Sus stats están en niveles buenos, pero el minero ha mencionado que hoy cosecharán mucho, lo que sugiere que continuar trabajando es una buena idea.\",\n  \"Dialogo\": \"¡Vamos, el campo nos espera!\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Minero_103\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1062
+},
+{
+    "id": "8097f73bdfcc4b0e8f406e415e760a96",
+    "created": 1772401227,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 835,
+        "total_tokens": 944,
+        "completion_tokens": 109,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está siguiendo huellas y ha mostrado interés en el bosque. El NPC es optimista y enérgico, y sus stats están en un nivel medio-bueno.\",\n  \"Dialogo\": \"¡Vamos, sigamos las huellas juntos!\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Leñador_104\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1238
+},
+{
+    "id": "04d57cf19a6e4c89b6aa1b272438abb0",
+    "created": 1772401229,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 830,
+        "total_tokens": 923,
+        "completion_tokens": 93,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador sigue las huellas y mi nivel de descanso está en medio. Debería seguirlo para no perder el rastro.\",\n  \"Dialogo\": \"Sigo tus pasos en silencio.\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Leñador_6\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 997
+},
+{
+    "id": "3e66fd009bfd4ee6a8391097450aac31",
+    "created": 1772401234,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 826,
+        "total_tokens": 917,
+        "completion_tokens": 91,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador sigue mis pasos en silencio. Debería seguir interactuando con él para mantener la colaboración.\",\n  \"Dialogo\": \"¿Has encontrado algo más en el camino?\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Leñador_104\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 991
+},
+{
+    "id": "9eca8d54c7b84d288dced2aa3f4ffe91",
+    "created": 1772401239,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 813,
+        "total_tokens": 925,
+        "completion_tokens": 112,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso está bajo, pero no crítico. La saciedad y el nivel social están bajos. El jugador no está interactuando directamente. Priorizar comer para aumentar la saciedad y el nivel social.\",\n  \"Dialogo\": \"¿Te gustaría unirte a mí para comer?\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1326
+},
+{
+    "id": "39b23c8e5c8847629650375450a724af",
+    "created": 1772401246,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 862,
+        "total_tokens": 978,
+        "completion_tokens": 116,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El minero está siguiendo a alguien y tiene niveles medios de vida, descanso, saciedad y social. No hay necesidad crítica de dormir, comer o descansar. El contexto sugiere que está en una misión o tarea con otros aldeanos.\",\n  \"Dialogo\": \"¡Vamos, sigamos las huellas juntos!\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1194
+},
+{
+    "id": "2868c21df7cd46bba4065b6b90e02f0f",
+    "created": 1772401248,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 854,
+        "total_tokens": 984,
+        "completion_tokens": 130,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Minero_110) está siguiendo las huellas y ha invitado al granjero a unirse. El granjero está en buen estado de vida y descanso, pero su nivel de saciedad es medio. Es una buena oportunidad para seguir al jugador y mantener la interacción social.\",\n  \"Dialogo\": \"¡Claro! Vamos juntos a ver qué encontramos.\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Minero_103\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1205
+},
+{
+    "id": "942060a7d1114cee95f29636c1404ce6",
+    "created": 1772401251,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 837,
+        "total_tokens": 938,
+        "completion_tokens": 101,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso está en medio, no es crítico. El jugador y otros NPCs están siguiendo huellas. Es importante mantener el grupo unido y seguir la pista.\",\n  \"Dialogo\": \"¡Vamos, sigamos las huellas juntos!\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1174
+},
+{
+    "id": "9c138001655e463ab8f1113d6c4d76d5",
+    "created": 1772401253,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 818,
+        "total_tokens": 922,
+        "completion_tokens": 104,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El NPC está comiendo y tiene niveles de descanso medios. No hay urgencia por dormir. El jugador ha invitado al NPC a comer, por lo que es apropiado continuar comiendo o conversar.\",\n  \"Dialogo\": \"Agradezco la compañía mientras como.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1188
+},
+{
+    "id": "1c68eea437ba4c449a98280ab4b05b8b",
+    "created": 1772401255,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 841,
+        "total_tokens": 935,
+        "completion_tokens": 94,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso está en medio, no es crítico. El jugador sigue a alguien y es parte de un grupo. Es mejor seguir al grupo.\",\n  \"Dialogo\": \"Sigo en silencio.\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Leñador_6\",\n  \"IntencionFutura\": \"SeguirA\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 904
+},
+{
+    "id": "10f15df9c2844eba96e314854603dead",
+    "created": 1772401256,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 827,
+        "total_tokens": 921,
+        "completion_tokens": 94,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso está en medio, no es crítico. El jugador sigue en silencio, por lo que debo continuar con mi acción actual.\",\n  \"Dialogo\": \"Continuemos en silencio.\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Leñador_104\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 948
+},
+{
+    "id": "2a94e92d7a114a74bac9b6dc31a4248d",
+    "created": 1772401265,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 801,
+        "total_tokens": 903,
+        "completion_tokens": 102,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso es crítico, por lo que debo priorizar dormir. El jugador ha sido amable y ha compartido comida, pero ahora es hora de descansar.\",\n  \"Dialogo\": \"Buenas noches, debo descansar ahora.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1188
+},
+{
+    "id": "92f3254032df4f79928b4aa4d0e1feaa",
+    "created": 1772401271,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 863,
+        "total_tokens": 944,
+        "completion_tokens": 81,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Descanso bajo, pero sigue a alguien. Prioriza seguir.\",\n  \"Dialogo\": \"¡Vamos, sigamos las huellas juntos!\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Dormir\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 863
+},
+{
+    "id": "265f1bf80738479f99217cb96544c579",
+    "created": 1772401273,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 843,
+        "total_tokens": 937,
+        "completion_tokens": 94,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso es bajo, pero el jugador está siguiendo huellas y ha estado en silencio. Es importante mantener la atención en la tarea.\",\n  \"Dialogo\": \"¡Vamos, sigamos en silencio!\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"SeguirA\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1145
+},
+{
+    "id": "4edd9ac0b71f43a39e3079ffa24738f8",
+    "created": 1772401274,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 858,
+        "total_tokens": 949,
+        "completion_tokens": 91,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Descanso bajo, pero el jugador quiere seguir las huellas. Priorizar seguir al jugador.\",\n  \"Dialogo\": \"¡Vamos, sigamos las huellas juntos!\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Minero_103\",\n  \"IntencionFutura\": \"Dormir\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 943
+},
+{
+    "id": "6b30b7c2bda84fc68a076ac3dbe8025c",
+    "created": 1772401278,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 832,
+        "total_tokens": 924,
+        "completion_tokens": 92,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso está en medio, pero el jugador sigue siguiendo las huellas. Es importante mantener la atención y seguir colaborando.\",\n  \"Dialogo\": \"Continuemos en silencio.\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Leñador_104\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1003
+},
+{
+    "id": "a303c7e4a3a947ec91c5b46bca6f3851",
+    "created": 1772401279,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 843,
+        "total_tokens": 941,
+        "completion_tokens": 98,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso es medio, no es crítico. El jugador y otros NPCs están siguiendo huellas en silencio. Es importante mantener el sigilo y la disciplina.\",\n  \"Dialogo\": \"Sigo en silencio.\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Leñador_6\",\n  \"IntencionFutura\": \"SeguirA\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1158
+},
+{
+    "id": "f0f4abbc56e0411e9296a7f1b70e5dea",
+    "created": 1772401295,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 854,
+        "total_tokens": 944,
+        "completion_tokens": 90,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Descanso bajo, priorizar dormir. Jugador sigue en silencio, no es momento de conversar.\",\n  \"Dialogo\": \"Buenas noches, debo descansar ahora.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1023
+},
+{
+    "id": "5470449897014a9fbfe54922e7728d17",
+    "created": 1772401297,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 846,
+        "total_tokens": 936,
+        "completion_tokens": 90,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Descanso bajo, priorizar dormir. Jugador sigue en silencio, mantener la acción actual.\",\n  \"Dialogo\": \"¡Vamos, sigamos en silencio!\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Leñador_104\",\n  \"IntencionFutura\": \"Dormir\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 863
+},
+{
+    "id": "ae002421f045477f9b18ffd97e15daf9",
+    "created": 1772401298,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 854,
+        "total_tokens": 951,
+        "completion_tokens": 97,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El descanso es bajo, pero no crítico. El jugador (Minero_103) está durmiendo. Es hora de descansar también.\",\n  \"Dialogo\": \"Buenas noches, amigo. Descansemos.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 807
+},
+{
+    "id": "1f3606fd77b64d7f9c3ece436f539661",
+    "created": 1772401302,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 826,
+        "total_tokens": 902,
+        "completion_tokens": 76,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Descanso bajo, seguir al grupo es prioritario.\",\n  \"Dialogo\": \"Sigo en silencio.\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Leñador_6\",\n  \"IntencionFutura\": \"Dormir\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 887
+},
+{
+    "id": "8abdda673cba4fd69f677b77e53a1739",
+    "created": 1772401303,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 816,
+        "total_tokens": 894,
+        "completion_tokens": 78,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El descanso es bajo, pero estoy siguiendo a alguien. Continuaré siguiendo.\",\n  \"Dialogo\": \"Continuemos en silencio.\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 928
+},
+{
+    "id": "4564f8c1fd164e938c3072a5bce273c2",
+    "created": 1772401320,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 835,
+        "total_tokens": 920,
+        "completion_tokens": 85,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Descanso bajo, priorizar dormir. Contexto de silencio y seguimiento.\",\n  \"Dialogo\": \"¡Vamos, sigamos en silencio... zzz\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"SeguirA\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 777
+},
+{
+    "id": "d425c1f7025e4851a453de372bc29ba4",
+    "created": 1772401327,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 806,
+        "total_tokens": 899,
+        "completion_tokens": 93,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso es bajo, pero no crítico. El jugador está durmiendo y otros NPCs también. Es seguro descansar.\",\n  \"Dialogo\": \"Buenas noches, descansaré un poco.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"SeguirA\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1176
+},
+{
+    "id": "3a9d4f7f32c94581815975d0c80cbc41",
+    "created": 1772401328,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 814,
+        "total_tokens": 896,
+        "completion_tokens": 82,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Descanso bajo, priorizar dormir. El jugador sigue a alguien en silencio.\",\n  \"Dialogo\": \"Es hora de descansar, buen trabajo.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1382
+},
+{
+    "id": "a07c957f44b04a23a24366c3aa26b560",
+    "created": 1772401353,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 825,
+        "total_tokens": 962,
+        "completion_tokens": 137,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El granjero está en la etapa de dormir y su nivel de descanso es bueno. Sin embargo, su nivel de saciedad y social son bajos. Como el jugador (Minero_103) ha mencionado seguir huellas juntos anteriormente, el granjero podría estar interesado en continuar esa actividad para aumentar su nivel social.\",\n  \"Dialogo\": \"¡Vamos, sigamos las huellas juntos!\",\n  \"Accion\": \"SeguirA\",\n  \"NPCobjetivo\": \"Minero_103\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1191
+},
+{
+    "id": "ffeb535c7e564043aa348f8f6dd53435",
+    "created": 1772401372,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 794,
+        "total_tokens": 885,
+        "completion_tokens": 91,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Es de noche y todos están durmiendo. Mi descanso está óptimo, pero es hora de dormir para mantener la rutina.\",\n  \"Dialogo\": \"Buenas noches, descansaré ahora.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1028
+},
+{
+    "id": "0b2e4c288b004d9389415637506ad0d2",
+    "created": 1772401373,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 791,
+        "total_tokens": 908,
+        "completion_tokens": 117,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El NPC tiene un nivel de descanso bueno, pero su saciedad y nivel social están en niveles críticos. Es noche y la mayoría de los aldeanos están durmiendo. El jugador no está presente en la memoria reciente.\",\n  \"Dialogo\": \"¡Buenas noches, vecino! ¿Te apetece un poco de compañía?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Comer\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1593
+},
+{
+    "id": "9c34dfb3e1864380aad772b130e9e8a7",
+    "created": 1772401378,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 810,
+        "total_tokens": 927,
+        "completion_tokens": 117,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Minero_103) está conversando. Mi nivel de saciedad es crítico, pero el jugador está interactuando conmigo, por lo que debo priorizar la interacción social.\",\n  \"Dialogo\": \"¡Ah, Minero_103! ¿Qué tal tu día?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Minero_103\",\n  \"IntencionFutura\": \"Comer\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1243
+},
+{
+    "id": "e277478e25234e27a87642cf085ade86",
+    "created": 1772401388,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 787,
+        "total_tokens": 887,
+        "completion_tokens": 100,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso es bueno, pero la saciedad y el nivel social son bajos. Es noche y la mayoría de los aldeanos están durmiendo. El jugador no está interactuando actualmente.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1025
+},
+{
+    "id": "84cdc9e10baa4610b0cdac82cc136a02",
+    "created": 1772401392,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 807,
+        "total_tokens": 917,
+        "completion_tokens": 110,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Granjero_110) está conversando. El NPC tiene buena energía y está en un horario de noche, pero su nivel de saciedad es bajo.\",\n  \"Dialogo\": \"¡Tengo hambre! ¿Quieres acompañarme a comer?\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Granjero_110\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1180
+},
+{
+    "id": "873a45ef1f7f4a809a65899599243e48",
+    "created": 1772401395,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 807,
+        "total_tokens": 917,
+        "completion_tokens": 110,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Minero_103) está comiendo y tiene bajo nivel de saciedad. Es una buena oportunidad para conversar y aumentar el nivel social.\",\n  \"Dialogo\": \"¡Vaya, tienes mucha hambre, eh! ¿Qué tal tu trabajo hoy?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Minero_103\",\n  \"IntencionFutura\": \"Comer\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 897
+},
+{
+    "id": "5c1ae2af89f441afa3a9120f62f0220e",
+    "created": 1772401396,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 777,
+        "total_tokens": 879,
+        "completion_tokens": 102,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de saciedad es bajo, pero no crítico. El nivel de descanso es bueno. El jugador no está interactuando. Priorizar comer para aumentar la saciedad.\",\n  \"Dialogo\": \"Tengo hambre, iré a comer algo.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1281
+},
+{
+    "id": "cd137bb8ae7e4a33a55bdce52278ccb5",
+    "created": 1772401403,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 824,
+        "total_tokens": 939,
+        "completion_tokens": 115,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El minero está comiendo y tiene niveles de descanso, saciedad y social en niveles medios. El granjero 110 está cerca y ha mostrado interés en conversar.\",\n  \"Dialogo\": \"¡Ah, Granjero_110! ¿Qué tal tu día?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Granjero_110\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1170
+},
+{
+    "id": "4df2327f7cef4d9795d5ed12801b6363",
+    "created": 1772401405,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 812,
+        "total_tokens": 927,
+        "completion_tokens": 115,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Minero_103) está comiendo y ha invitado al NPC a comer. El NPC tiene un nivel de saciedad bajo y social bajo, por lo que es adecuado aceptar la invitación.\",\n  \"Dialogo\": \"¡Claro! Comer juntos es una gran idea.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Minero_103\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1114
+},
+{
+    "id": "81fdaf0e36d04777a724697e39763988",
+    "created": 1772401406,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 816,
+        "total_tokens": 897,
+        "completion_tokens": 81,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Nivel de saciedad bajo, pero no crítico. El jugador no está presente. Priorizar comer para aumentar la saciedad.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 859
+},
+{
+    "id": "ca7c47d6a8f64ddfafe745ae3ae06197",
+    "created": 1772401407,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 766,
+        "total_tokens": 895,
+        "completion_tokens": 129,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El Guardia_105 está comiendo y tiene niveles de vida, descanso, saciedad y social en niveles buenos. El Leñador_104 está comiendo también, lo que podría ser una buena oportunidad para conversar.\",\n  \"Dialogo\": \"¿Cómo te va, Leñador_104? ¿Qué tal tu trabajo hoy?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_104\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1310
+},
+{
+    "id": "e9ae1bc7a75046909cc05e357c1f1854",
+    "created": 1772401411,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 808,
+        "total_tokens": 902,
+        "completion_tokens": 94,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El NPC tiene un nivel de descanso óptimo y necesita comer urgentemente. El contexto no exige ninguna acción específica.\",\n  \"Dialogo\": \"¡Buenos días! Necesito comer algo antes de empezar el día.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 979
+},
+{
+    "id": "e15fcc6263464a7ebaed188771996560",
+    "created": 1772401412,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 840,
+        "total_tokens": 961,
+        "completion_tokens": 121,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Guardia_105) ha iniciado una conversación. Dado que los niveles de vida, descanso, saciedad y social son buenos, es apropiado continuar conversando.\",\n  \"Dialogo\": \"¡Buenos días, Guardia_105! Hoy está haciendo un día espléndido para trabajar.\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Guardia_105\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1105
+},
+{
+    "id": "e9aa52da995448c794e51fb211e4bde1",
+    "created": 1772401417,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 834,
+        "total_tokens": 919,
+        "completion_tokens": 85,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está comiendo y ha interactuado recientemente. Es hora de trabajar.\",\n  \"Dialogo\": \"¡Buen provecho! Ahora debo ir a trabajar.\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1020
+},
+{
+    "id": "e0558d1f4cb74157a325f46baad03ade",
+    "created": 1772401420,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 822,
+        "total_tokens": 915,
+        "completion_tokens": 93,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está comiendo y el contexto es adecuado para trabajar. El NPC es disciplinado y silencioso, por lo que es probable que se ponga a trabajar.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 712
+},
+{
+    "id": "8099e0b00c8c4a49b34c6aad7e67fbe1",
+    "created": 1772401422,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 808,
+        "total_tokens": 920,
+        "completion_tokens": 112,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El leñador ha terminado de comer y tiene un nivel de saciedad medio. Su nivel de descanso es bueno, por lo que no necesita dormir. Su nivel social es medio, por lo que podría conversar o trabajar.\",\n  \"Dialogo\": \"¡Buenos días! ¿Qué tal el día?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1070
+},
+{
+    "id": "7d12f9669617497ab1f3fe0178dbb801",
+    "created": 1772401421,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 777,
+        "total_tokens": 898,
+        "completion_tokens": 121,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El Guardia_105 está en buen estado, con niveles óptimos de vida, descanso, saciedad y nivel social. El Leñador_104 está trabajando y no parece necesitar ayuda. No hay amenazas inmediatas.\",\n  \"Dialogo\": \"¡Buen trabajo, Leñador_104!\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 2240
+},
+{
+    "id": "87b787020da2400fbe288d6c1d673f35",
+    "created": 1772401423,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 822,
+        "total_tokens": 932,
+        "completion_tokens": 110,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está trabajando y el NPC tiene buen descanso y saciedad. El NPC es optimista y enérgico, por lo que es probable que quiera trabajar también.\",\n  \"Dialogo\": \"¡Buen trabajo, Leñador_104! Yo también voy a empezar.\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 3620
+},
+{
+    "id": "d0cf1fae3bf44e378e641324567b0e08",
+    "created": 1772401431,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 815,
+        "total_tokens": 903,
+        "completion_tokens": 88,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador no está interactuando directamente, y mis stats están en niveles buenos. Es hora de trabajar.\",\n  \"Dialogo\": \"¡Es hora de empezar mi turno!\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1072
+},
+{
+    "id": "c90758bb46a74916aacaf65934d1d606",
+    "created": 1772401433,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 804,
+        "total_tokens": 891,
+        "completion_tokens": 87,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador ha iniciado una conversación y mi nivel de descanso es óptimo. Es hora de trabajar.\",\n  \"Dialogo\": \"¡Buenos días! ¿Qué tal el día?\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 741
+},
+{
+    "id": "9b1d470cbfb1409fba3cac305036935a",
+    "created": 1772401446,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 825,
+        "total_tokens": 926,
+        "completion_tokens": 101,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El granjero tiene un nivel de descanso medio, por lo que no necesita dormir. Su nivel de saciedad es bajo, pero no crítico. El jugador no está presente en el contexto reciente, por lo que puede seguir trabajando.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Comer\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1304
+},
+{
+    "id": "d246f441c8104f42ba2aacf6c59fd279",
+    "created": 1772401460,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 818,
+        "total_tokens": 905,
+        "completion_tokens": 87,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de saciedad es bajo, por lo que debo priorizar comer para recuperar energía.\",\n  \"Dialogo\": \"¡Tengo hambre! Necesito comer algo.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 905
+},
+{
+    "id": "69fe0e7dd2354c12b5430e7f6f1ec4c4",
+    "created": 1772401462,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 799,
+        "total_tokens": 912,
+        "completion_tokens": 113,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de saciedad es bajo, pero el descanso está en un nivel bueno. El jugador está comiendo, por lo que es una buena oportunidad para conversar y mejorar el nivel social.\",\n  \"Dialogo\": \"¿Qué tal, Leñador_6? ¿Qué estás comiendo?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_6\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1158
+},
+{
+    "id": "6126d19f96374fe695244e97dc93d7f8",
+    "created": 1772401466,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 804,
+        "total_tokens": 892,
+        "completion_tokens": 88,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El guardia está trabajando y sus stats están en niveles medios. El jugador no ha interactuado recientemente, por lo que el guardia continuará con su trabajo.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 860
+},
+{
+    "id": "13049fda40254c4e8b5995e23e7a68b4",
+    "created": 1772401470,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 799,
+        "total_tokens": 889,
+        "completion_tokens": 90,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está trabajando y tiene un nivel de saciedad bajo. Es importante mantener la energía para seguir trabajando.\",\n  \"Dialogo\": \"¡Tengo hambre! ¿Quieres comer algo conmigo?\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Jugador\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 860
+},
+{
+    "id": "92f8b17eea4d4ecfbbed1658dff7188a",
+    "created": 1772401471,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 777,
+        "total_tokens": 858,
+        "completion_tokens": 81,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador no está presente y las stats están óptimas. El horario es de día y es hora de trabajar.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 862
+},
+{
+    "id": "144cff87ab0e4f3aad3f6a52271e2408",
+    "created": 1772401472,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 821,
+        "total_tokens": 938,
+        "completion_tokens": 117,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador Leñador_104 está conversando y pregunta qué estoy comiendo. Mis stats están en buen estado, pero es importante mantener la interacción social.\",\n  \"Dialogo\": \"¡Hola! Estoy disfrutando un delicioso pan con miel. ¿Quieres probar?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_104\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1052
+},
+{
+    "id": "4a0041618ab449cebb185e4899d3c19a",
+    "created": 1772401476,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 813,
+        "total_tokens": 916,
+        "completion_tokens": 103,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador Leñador_6 está comiendo y ha ofrecido compartir su comida. Mi nivel de saciedad es bajo, por lo que debo considerar comer.\",\n  \"Dialogo\": \"Acepto tu oferta, Leñador_6.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Leñador_6\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 990
+},
+{
+    "id": "49a422687ab340c99f40888197799301",
+    "created": 1772401482,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 816,
+        "total_tokens": 896,
+        "completion_tokens": 80,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está comiendo y tiene stats en niveles buenos. El contexto no exige nada específico.\",\n  \"Dialogo\": \"¡Qué bien se come aquí!\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 864
+},
+{
+    "id": "6fcc909c3e4e4f02834f78d212588065",
+    "created": 1772401485,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 836,
+        "total_tokens": 958,
+        "completion_tokens": 122,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Leñador_104) está comiendo y ha aceptado una oferta reciente. Mi nivel de descanso es bueno, y mi nivel social está en un nivel óptimo. Es apropiado continuar conversando.\",\n  \"Dialogo\": \"¡Me alegra que aceptes! ¿Cómo ha estado tu mañana?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_104\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1480
+},
+{
+    "id": "2980fe058e7b4807b5ae1d85eda0d944",
+    "created": 1772401489,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 814,
+        "total_tokens": 941,
+        "completion_tokens": 127,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El NPC está en estado de comer, con niveles de vida, descanso, saciedad y social en niveles buenos. El jugador (Leñador_6) ha estado conversando y comiendo, mostrando interés en interactuar. El NPC priorizará continuar comiendo y luego posiblemente conversar.\",\n  \"Dialogo\": \"Disfrutando mi comida, Leñador_6.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1870
+},
+{
+    "id": "3c3db0cbdc12409184e93a7d0454001b",
+    "created": 1772401493,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 788,
+        "total_tokens": 894,
+        "completion_tokens": 106,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El minero está en estado de comer y tiene niveles óptimos en vida, saciedad y social. El descanso está en nivel medio, por lo que no es prioritario dormir. El jugador no está interactuando en este momento.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 890
+},
+{
+    "id": "0d85bb92120f41979837adaad5d763dd",
+    "created": 1772401494,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 802,
+        "total_tokens": 884,
+        "completion_tokens": 82,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Descanso crítico, priorizar dormir. Jugador no está presente.\",\n  \"Dialogo\": \"¡Uf, necesito descansar un poco!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 989
+},
+{
+    "id": "7a23c535cb934e41b50d9d8069e44240",
+    "created": 1772401496,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 849,
+        "total_tokens": 963,
+        "completion_tokens": 114,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está conversando y ha mencionado disfrutar de su comida. Como mi nivel de saciedad es bueno y el descanso es óptimo, puedo seguir conversando para mantener la interacción social.\",\n  \"Dialogo\": \"¡Qué bien! La miel siempre es una buena elección.\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_104\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1054
+},
+{
+    "id": "1208dcc7f837406c92b0bf19518943d1",
+    "created": 1772401497,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 788,
+        "total_tokens": 923,
+        "completion_tokens": 135,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El Guardia_105 tiene un nivel de saciedad muy bajo y un nivel social bajo. Es de día y el guardia está trabajando. El granjero está durmiendo y el leñador está comiendo. El guardia necesita comer para aumentar su saciedad y socializar para aumentar su nivel social.\",\n  \"Dialogo\": \"¿Te gustaría acompañarme a comer, Leñador_6?\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Leñador_6\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1324
+},
+{
+    "id": "198dd23636aa4dcfa72631b197966058",
+    "created": 1772401501,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 795,
+        "total_tokens": 875,
+        "completion_tokens": 80,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador no ha interactuado recientemente. Stats en buen estado. Contexto permite NoHacerNada.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 877
+},
+{
+    "id": "7d7746e1ae2b468f8bc93fa9b1ae4ff5",
+    "created": 1772401504,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 816,
+        "total_tokens": 919,
+        "completion_tokens": 103,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El NPC está en estado de comer, con stats óptimos. El jugador (Leñador_6) está cerca y ha estado conversando y comiendo.\",\n  \"Dialogo\": \"Disfrutando mi comida, Leñador_6.\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1029
+},
+{
+    "id": "7f0cf7515825449a9aead5e2d79690a9",
+    "created": 1772401508,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 852,
+        "total_tokens": 940,
+        "completion_tokens": 88,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está cerca y ha estado conversando. Mis stats están en buen estado, pero es hora de trabajar.\",\n  \"Dialogo\": \"¡Es hora de volver al trabajo, amigo!\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 899
+},
+{
+    "id": "b7328ddb673d492e87144f54c2511b17",
+    "created": 1772401510,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 785,
+        "total_tokens": 874,
+        "completion_tokens": 89,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El minero tiene estadísticas óptimas y no hay interacción reciente con el jugador. Es hora de trabajar.\",\n  \"Dialogo\": \"¡Vamos a extraer algo de mineral!\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1130
+},
+{
+    "id": "d30587c1ebf54523b6302abecc43ee36",
+    "created": 1772401511,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 850,
+        "total_tokens": 950,
+        "completion_tokens": 100,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Leñador_6) ha vuelto al trabajo. Como soy disciplinado y mi nivel de descanso es medio, debo seguir su ejemplo.\",\n  \"Dialogo\": \"Trabajemos duro, Leñador_6.\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 913
+},
+{
+    "id": "c0ba6a10fd5d4042bc53c013fbe95364",
+    "created": 1772401512,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 803,
+        "total_tokens": 911,
+        "completion_tokens": 108,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El guardia está comiendo y su nivel de descanso está bajo, pero no crítico. El jugador Leñador_6 está cerca y ha mostrado interés en conversar.\",\n  \"Dialogo\": \"¡Ah, Leñador_6! ¿Qué tal tu mañana?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_6\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 826
+},
+{
+    "id": "c26a8890e3e54c70b254a8abd9df8744",
+    "created": 1772401513,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 813,
+        "total_tokens": 886,
+        "completion_tokens": 73,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador no está presente y las stats están bien. El contexto exige seguir trabajando.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 842
+},
+{
+    "id": "f7d875e749f942d0bb950fc61486464f",
+    "created": 1772401533,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 808,
+        "total_tokens": 908,
+        "completion_tokens": 100,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El descanso está bajo, pero no crítico. El jugador (Leñador_6) está interactuando. Priorizar conversación.\",\n  \"Dialogo\": \"¡Ah, Leñador_6! ¿Qué tal tu mañana?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_6\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1020
+},
+{
+    "id": "d09a80013fc943feae2a9258b5435390",
+    "created": 1772401540,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 858,
+        "total_tokens": 964,
+        "completion_tokens": 106,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El leñador está en buen estado general, pero su nivel de saciedad es bajo. El jugador no está interactuando en este momento, por lo que es una buena oportunidad para comer.\",\n  \"Dialogo\": \"¡Tengo hambre! Voy a comer algo.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1074
+},
+{
+    "id": "984c73830d9646d0a1eb52bde22f40b3",
+    "created": 1772401543,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 804,
+        "total_tokens": 883,
+        "completion_tokens": 79,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador no está presente y el descanso está bajo, pero no crítico. Priorizar trabajo para mantener la aldea segura.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 889
+},
+{
+    "id": "eb582ade40d146c686bb12bf94aa5838",
+    "created": 1772401544,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 800,
+        "total_tokens": 908,
+        "completion_tokens": 108,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El minero está trabajando y sus stats están en niveles medios. No hay necesidad crítica de dormir, comer o descansar. El jugador no ha interactuado recientemente, por lo que el minero continuará trabajando.\",\n  \"Dialogo\": \"¡Este mineral es de buena calidad!\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1014
+},
+{
+    "id": "634fefc7eb7e496ea4e3ac109a6741d0",
+    "created": 1772401545,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 820,
+        "total_tokens": 914,
+        "completion_tokens": 94,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El NPC está trabajando y tiene niveles de descanso, saciedad y social en niveles medios. El jugador no está interactuando directamente, por lo que el NPC continúa con su tarea actual.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1087
+},
+{
+    "id": "e9632e0b02154782a1d78ebf97ec26a1",
+    "created": 1772401554,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 785,
+        "total_tokens": 887,
+        "completion_tokens": 102,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está comiendo y su nivel de saciedad está óptimo. No hay interacciones recientes que requieran atención inmediata. Es un buen momento para volver al trabajo.\",\n  \"Dialogo\": \"¡Vamos, hay mucho que hacer!\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1061
+},
+{
+    "id": "c01e1556df4547a7b69a3d4c6c6bdd92",
+    "created": 1772401557,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 782,
+        "total_tokens": 864,
+        "completion_tokens": 82,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de saciedad es crítico, por lo que debo priorizar comer. El jugador no está interactuando directamente conmigo.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 729
+},
+{
+    "id": "0d356cd468dd47829f21b21747164864",
+    "created": 1772401568,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 777,
+        "total_tokens": 869,
+        "completion_tokens": 92,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está comiendo y no hay interacción reciente. El descanso está en nivel bueno, pero la saciedad está en nivel medio. Priorizar comer para aumentar la saciedad.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1054
+},
+{
+    "id": "d85dcb89d1cf4fdd9fbd4c3d455901df",
+    "created": 1772401577,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 751,
+        "total_tokens": 848,
+        "completion_tokens": 97,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El NPC ha terminado de comer y tiene niveles de vida, descanso y social óptimos. El contexto sugiere que otros leñadores están trabajando, por lo que es apropiado volver al trabajo.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1046
+},
+{
+    "id": "7e8340d2148e48d3b60fc09a00dc14ae",
+    "created": 1772401579,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 808,
+        "total_tokens": 884,
+        "completion_tokens": 76,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Descanso bajo, priorizar dormir. Jugador no presente, no hay interacción social.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1376
+},
+{
+    "id": "6c2013ac913f4488b13c7f75a1848c61",
+    "created": 1772401581,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 785,
+        "total_tokens": 883,
+        "completion_tokens": 98,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso está en medio, pero el jugador está cerca y ha estado trabajando. Es buena oportunidad para conversar y mantener el nivel social alto.\",\n  \"Dialogo\": \"¡Hola, amigo! ¿Cómo va tu día?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Jugador\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1354
+},
+{
+    "id": "420a29f1bf4547098b42b107d6c8d6a9",
+    "created": 1772401584,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 783,
+        "total_tokens": 876,
+        "completion_tokens": 93,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El granjero tiene un nivel de descanso óptimo, pero su saciedad está crítica. Debe comer para recuperar energía.\",\n  \"Dialogo\": \"¡Tengo mucha hambre! Necesito comer algo.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 885
+},
+{
+    "id": "c561b725c9d6470daa02981cd3188a98",
+    "created": 1772401585,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 797,
+        "total_tokens": 890,
+        "completion_tokens": 93,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso es crítico, pero el guardia está trabajando. Debe priorizar el descanso.\",\n  \"Dialogo\": \"Perdona, Leñador_6, necesito descansar un momento.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 956
+},
+{
+    "id": "029aed8d899d429c88efe24a61986d90",
+    "created": 1772401586,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 752,
+        "total_tokens": 834,
+        "completion_tokens": 82,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Descanso bajo, priorizar DORMIR. Guardia_105 está descansando, no hay interrupciones.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 736
+},
+{
+    "id": "a8c58a63b03c448b877a3cd591c4597b",
+    "created": 1772401598,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 786,
+        "total_tokens": 902,
+        "completion_tokens": 116,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El granjero tiene hambre y está comiendo. Su nivel de descanso es óptimo, por lo que no necesita dormir. El jugador está comiendo, por lo que es apropiado conversar con él.\",\n  \"Dialogo\": \"¡Qué bueno que estés comiendo! ¿Cómo ha estado tu día?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Jugador\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1203
+},
+{
+    "id": "e9f125911ffa4a3a986cecfc534536e7",
+    "created": 1772401612,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 773,
+        "total_tokens": 909,
+        "completion_tokens": 136,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Granjero_110) está conversando y ha mostrado interés en mi día. Mis stats están en niveles buenos, pero el descanso está bajo. Sin embargo, priorizaré la interacción social ya que el jugador está activo y ha iniciado conversación.\",\n  \"Dialogo\": \"¡Mi día ha sido productivo! ¿Y el tuyo, amigo?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Granjero_110\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1341
+},
+{
+    "id": "cbbe4070c3884bb686a973f4c4915ffb",
+    "created": 1772401617,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 764,
+        "total_tokens": 844,
+        "completion_tokens": 80,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso está en medio, no es crítico. El jugador no está interactuando. Continuar trabajando.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 935
+},
+{
+    "id": "cfeeed5cef234b98a83f0ef9a9d8c932",
+    "created": 1772401618,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 795,
+        "total_tokens": 915,
+        "completion_tokens": 120,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Leñador_6) acaba de comentar sobre su día productivo. Mi nivel de saciedad está bajo, pero el descanso está óptimo. Priorizaré conversar con el jugador para mantener el nivel social.\",\n  \"Dialogo\": \"¡Me alegra saberlo! Cuéntame más sobre tu día.\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_6\",\n  \"IntencionFutura\": \"Comer\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1153
+},
+{
+    "id": "5cc8ccf683324d5ea4b1c3e691d10fc4",
+    "created": 1772401622,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 805,
+        "total_tokens": 918,
+        "completion_tokens": 113,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso está bajo, pero no crítico. El jugador está conversando y parece interesado en mi día. Priorizaré continuar la conversación para mantener el nivel social alto.\",\n  \"Dialogo\": \"¡Ha sido un día lleno de trabajo, pero gratificante!\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Granjero_110\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1202
+},
+{
+    "id": "3cd25adc42ee41f196cf27547ab0a0a6",
+    "created": 1772401628,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 824,
+        "total_tokens": 937,
+        "completion_tokens": 113,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Leñador_6) ha estado conversando y parece que la conversación está llegando a su fin. Mi nivel de saciedad está bajo, por lo que debo priorizar comer.\",\n  \"Dialogo\": \"¡Ha sido un placer charlar, amigo! Ahora debo ir a comer algo.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1044
+},
+{
+    "id": "b3dbeb0d799844f88da529ed9b522c34",
+    "created": 1772401635,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 825,
+        "total_tokens": 925,
+        "completion_tokens": 100,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El descanso está bajo, pero no crítico. El jugador acaba de comer y el contexto es de atardecer, momento de relajación.\",\n  \"Dialogo\": \"¡Qué día tan hermoso! ¿Te gustaría acompañarme a comer algo?\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 978
+},
+{
+    "id": "29374cfb8e324df69369554436e5d695",
+    "created": 1772401642,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 744,
+        "total_tokens": 846,
+        "completion_tokens": 102,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso es bueno, pero la saciedad y el nivel social están bajos. El jugador no ha interactuado recientemente. Priorizar comer para aumentar la saciedad.\",\n  \"Dialogo\": \"Necesito comer algo antes de seguir.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Dormir\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1035
+},
+{
+    "id": "844f4a160ed246d29624ba9a24ebaee7",
+    "created": 1772401644,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 834,
+        "total_tokens": 948,
+        "completion_tokens": 114,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El granjero ha terminado de comer y está satisfecho. Es de noche y su nivel de descanso es bueno, pero no crítico. El leñador está comiendo y no hay interacción inmediata necesaria.\",\n  \"Dialogo\": \"¡Buenas noches, amigo! Que descanses bien.\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Dormir\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1842
+},
+{
+    "id": "4ee7986a9151411a848b38b0d2cdd185",
+    "created": 1772401646,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 834,
+        "total_tokens": 926,
+        "completion_tokens": 92,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Descanso bajo, priorizar dormir. Granjero_110 ya descansando.\",\n  \"Dialogo\": \"¡Buenas noches, Granjero_110! Que descanses bien.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1380
+},
+{
+    "id": "fc4f3d0bf8b84562a002783896e9016d",
+    "created": 1772401651,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 762,
+        "total_tokens": 855,
+        "completion_tokens": 93,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso está en medio, no es crítico. El jugador está comiendo y no hay interacciones recientes que requieran atención. Es adecuado continuar con la acción actual.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Dormir\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1554
+},
+{
+    "id": "03089e961f0a485c87260ebd0c8ff380",
+    "created": 1772401652,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 877,
+        "total_tokens": 984,
+        "completion_tokens": 107,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Es de noche y el nivel de descanso está en óptimo. El jugador (Leñador_6) está durmiendo. No hay necesidad de hacer nada urgente.\",\n  \"Dialogo\": \"¡Buenas noches, vecino! Que descanses bien.\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Dormir\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1155
+},
+{
+    "id": "f3262d595ce1482b916a1d9f3810ecf5",
+    "created": 1772401653,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 796,
+        "total_tokens": 911,
+        "completion_tokens": 115,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso es bueno, pero la saciedad y el nivel social son bajos. Es de noche y el jugador está durmiendo. Es una buena oportunidad para comer y socializar.\",\n  \"Dialogo\": \"¿Te apetece comer algo, Leñador_104?\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Leñador_104\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1258
+},
+{
+    "id": "35cdf55187fd4a5b88bc6c9e659d4144",
+    "created": 1772401655,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 753,
+        "total_tokens": 826,
+        "completion_tokens": 73,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Descanso crítico, priorizar dormir. No hay jugador cerca para interactuar.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 939
+},
+{
+    "id": "6229c19d95bf4b7ca5ffcb626a69b3b2",
+    "created": 1772401663,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 788,
+        "total_tokens": 908,
+        "completion_tokens": 120,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso está óptimo, pero la saciedad y el nivel social están bajos. El jugador no está interactuando actualmente. Es hora de comer para aumentar la saciedad y posiblemente interactuar con otros aldeanos para aumentar el nivel social.\",\n  \"Dialogo\": \"¡Tengo hambre! ¿Alguien quiere comer conmigo?\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1162
+},
+{
+    "id": "68987a0feb9c4fa2a18f57f4e5b69ea3",
+    "created": 1772401664,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 796,
+        "total_tokens": 880,
+        "completion_tokens": 84,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El guardia ha terminado de comer y no necesita dormir. El jugador no está interactuando actualmente, por lo que puede volver a trabajar.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 960
+},
+{
+    "id": "24a84355bfa44692b1efaa374af8dc31",
+    "created": 1772401665,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 878,
+        "total_tokens": 966,
+        "completion_tokens": 88,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Es de noche y el NPC tiene un nivel de descanso óptimo. No hay nadie cerca para interactuar y no hay tareas urgentes que atender.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Dormir\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 850
+},
+{
+    "id": "69aada1dcd1e4f66a120987b750cb960",
+    "created": 1772401667,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 751,
+        "total_tokens": 844,
+        "completion_tokens": 93,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El NPC está en estado de comer, con niveles de descanso en medio. El minero está comiendo, pero el NPC no muestra interés en socializar. Prioriza terminar de comer.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Dormir\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 975
+},
+{
+    "id": "ca0290478a8b410aa9979a92d29db01a",
+    "created": 1772401671,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 877,
+        "total_tokens": 963,
+        "completion_tokens": 86,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Es tarde y todos están durmiendo. Es hora de descansar.\",\n  \"Dialogo\": \"¡Buenas noches, vecino! Que descanses bien.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 742
+},
+{
+    "id": "8f5ec2be224d48f48827005ff0e8cff4",
+    "created": 1772401673,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 791,
+        "total_tokens": 886,
+        "completion_tokens": 95,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El minero está en buen estado, pero es tarde y es hora de descansar. El jugador no está interactuando en este momento.\",\n  \"Dialogo\": \"Buenas noches, es hora de descansar.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 841
+},
+{
+    "id": "7393f3990a5942ce8c98fbc4778baaef",
+    "created": 1772401678,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 765,
+        "total_tokens": 862,
+        "completion_tokens": 97,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Es de noche y el minero ya está durmiendo. Mi nivel de descanso está en medio, pero es hora de dormir para estar fresco mañana.\",\n  \"Dialogo\": \"Buenas noches, es hora de descansar.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1154
+},
+{
+    "id": "8d749524fa9d4f729606de9766d85dd7",
+    "created": 1772401696,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 768,
+        "total_tokens": 862,
+        "completion_tokens": 94,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Es de noche y el minero ha ido a dormir. Mi descanso está en nivel medio, pero debo seguir trabajando como guardia.\",\n  \"Dialogo\": \"Buenas noches, todo está tranquilo.\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 958
+},
+{
+    "id": "9d20155546dc4805af81a9427221334b",
+    "created": 1772401714,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 756,
+        "total_tokens": 854,
+        "completion_tokens": 98,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Es de noche y el NPC ya ha dormido antes, pero su nivel de descanso es bueno. Su saciedad es baja, pero no crítica. El contexto sugiere que es hora de descansar.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Dormir\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1355
+},
+{
+    "id": "e2b1cff7382748de908de50516a013fc",
+    "created": 1772401716,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 784,
+        "total_tokens": 871,
+        "completion_tokens": 87,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El minero está en estado de dormir y tiene un nivel de descanso óptimo. No hay interacciones recientes que requieran su atención.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Dormir\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 810
+},
+{
+    "id": "9682f1668d2a40b5b65b2aa455799464",
+    "created": 1772401723,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 774,
+        "total_tokens": 848,
+        "completion_tokens": 74,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Nivel de descanso bajo, priorizar dormir. El jugador no está interactuando.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 870
+},
+{
+    "id": "8579eef32b96480b8253fe84e0fa91f4",
+    "created": 1772401727,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 777,
+        "total_tokens": 857,
+        "completion_tokens": 80,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Noche avanzada, todos descansan. Vida y descanso óptimos. No hay interacción reciente con el jugador.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Dormir\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 784
+},
+{
+    "id": "689a4b3dcb8d47cf8f508e14f3d81dc1",
+    "created": 1772401728,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 857,
+        "total_tokens": 936,
+        "completion_tokens": 79,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El NPC está durmiendo y sus stats están óptimos. El jugador también está durmiendo.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Dormir\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 839
+},
+{
+    "id": "0a706ff1dfc44d49a83d8aa6471160c1",
+    "created": 1772401737,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 834,
+        "total_tokens": 938,
+        "completion_tokens": 104,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El NPC está en la etapa de la noche y ha descansado lo suficiente. El jugador (Granjero_110) ya está durmiendo. No hay necesidad de interactuar o hacer nada en este momento.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Dormir\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1029
+},
+{
+    "id": "f5da257adb4f4b52ab2a740fde2a68d3",
+    "created": 1772401747,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 819,
+        "total_tokens": 919,
+        "completion_tokens": 100,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Es de noche y el NPC ya ha descansado lo suficiente. El jugador no está presente, por lo que no hay necesidad de interactuar socialmente. El NPC puede seguir descansando o hacer otra actividad.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Dormir\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 3636
+},
+{
+    "id": "8a4f8f98026040a7b1ca1101a228c3d6",
+    "created": 1772401754,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 766,
+        "total_tokens": 851,
+        "completion_tokens": 85,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El NPC está durmiendo y sus stats están óptimos. El jugador no está interactuando. No hay necesidad de cambiar de acción.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Dormir\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1140
+},
+{
+    "id": "0b1a1c2539a047548a7b33279e3ee0a4",
+    "created": 1772401757,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 819,
+        "total_tokens": 919,
+        "completion_tokens": 100,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El NPC está en un estado óptimo, pero es tarde y ya ha interactuado con el granjero. Es hora de descansar.\",\n  \"Dialogo\": \"¡Buenas noches, vecino! Que descanses bien.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 773
+},
+{
+    "id": "e1e8fde322d44104b5744032548f0d2a",
+    "created": 1772401785,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 773,
+        "total_tokens": 864,
+        "completion_tokens": 91,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Es de mañana y estoy descansado y con buena energía. El jugador no está interactuando conmigo en este momento.\",\n  \"Dialogo\": \"¡Buenos días! ¿Qué tal, vecino?\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1062
+},
+{
+    "id": "31349dcbd350427db945fa1438e7df98",
+    "created": 1772401786,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 753,
+        "total_tokens": 846,
+        "completion_tokens": 93,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El minero acaba de despertar y tiene niveles óptimos de descanso y vida. Es hora de comenzar el día con energía.\",\n  \"Dialogo\": \"¡Buenos días! Es hora de empezar a trabajar.\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Comer\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 760
+},
+{
+    "id": "6524ddda359147bd9ba347ff80c5f8bf",
+    "created": 1772401794,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 752,
+        "total_tokens": 834,
+        "completion_tokens": 82,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El descanso es óptimo, pero es hora de empezar el día y el minero ya está trabajando.\",\n  \"Dialogo\": \"Es hora de trabajar.\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 933
+},
+{
+    "id": "60f65c0b5a4e4dc1a10ea9ee40890d52",
+    "created": 1772401821,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 749,
+        "total_tokens": 834,
+        "completion_tokens": 85,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"Descanso óptimo, saciedad y social bajo. Priorizar comer y luego trabajar.\",\n  \"Dialogo\": \"Buenos días, ¿tienes algo de comer?\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 729
+},
+{
+    "id": "9c7e9041c9b242f9868c972701d45dfc",
+    "created": 1772401822,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 760,
+        "total_tokens": 865,
+        "completion_tokens": 105,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Leñador_11) acaba de comer y mi nivel de saciedad es bajo. Es una buena oportunidad para conversar y posiblemente compartir comida.\",\n  \"Dialogo\": \"¡Buenos días! ¿Te sobra algo de comer?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_11\",\n  \"IntencionFutura\": \"Comer\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 846
+},
+{
+    "id": "3afd8343ff4a415594dc591182a4a259",
+    "created": 1772401827,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 767,
+        "total_tokens": 865,
+        "completion_tokens": 98,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está trabajando y no ha interactuado recientemente. Tengo buena energía y descanso, pero necesito comer y socializar.\",\n  \"Dialogo\": \"¡Hola, vecino! ¿Necesitas ayuda con algo?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Jugador\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 929
+},
+{
+    "id": "3ca7d8f7aa5a4dcb83db68b38e846d8f",
+    "created": 1772401828,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 758,
+        "total_tokens": 858,
+        "completion_tokens": 100,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de descanso es óptimo, pero la saciedad y el nivel social son críticos. Es hora de trabajar, pero primero debo comer para recuperar energía.\",\n  \"Dialogo\": \"Buenos días, ¿alguien quiere comer conmigo?\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 772
+},
+{
+    "id": "58067205271b44fa87da852164c29373",
+    "created": 1772401833,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 765,
+        "total_tokens": 857,
+        "completion_tokens": 92,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El leñador está en horario laboral y sus stats están en niveles buenos. El jugador (Minero_103) está trabajando. Priorizar trabajo.\",\n  \"Dialogo\": \"Nada.\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 794
+},
+{
+    "id": "62a99c9239e641289a4860a49fe20ef4",
+    "created": 1772401834,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 780,
+        "total_tokens": 859,
+        "completion_tokens": 79,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El NPC está descansado y con buena saciedad. El jugador no está interactuando. Es hora de trabajar.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 872
+},
+{
+    "id": "6053a1dacec94de7958f229e3e2a2aba",
+    "created": 1772401835,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 743,
+        "total_tokens": 873,
+        "completion_tokens": 130,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Minero_103) ha preguntado si tengo algo de comer. Aunque mi saciedad está en un nivel bueno, es importante mantener buenas relaciones con los aldeanos. Además, el contexto sugiere que el jugador podría estar en una situación similar a la mía.\",\n  \"Dialogo\": \"Aquí tienes un poco de pan, vecino.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Minero_103\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1257
+},
+{
+    "id": "4ee0a679f4604e94862c656845fc49b0",
+    "created": 1772401836,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 761,
+        "total_tokens": 865,
+        "completion_tokens": 104,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador ha preguntado por comida y está en modo Conversar. Mi nivel de saciedad es bajo, pero el jugador podría tener comida.\",\n  \"Dialogo\": \"¡Claro! Tengo un poco de pan aquí. ¿Te gustaría?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_11\",\n  \"IntencionFutura\": \"Comer\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 820
+},
+{
+    "id": "da938d659a8d41c7a61e8e4ca33167f1",
+    "created": 1772401840,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 750,
+        "total_tokens": 828,
+        "completion_tokens": 78,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador no está interactuando, y mis stats están en niveles buenos. Continuaré con mi trabajo.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 871
+},
+{
+    "id": "fdf74da892ab4c1681ffd3d5dc4e6d88",
+    "created": 1772401846,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 765,
+        "total_tokens": 841,
+        "completion_tokens": 76,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador no está interactuando actualmente. Las stats están óptimas. Es hora de trabajar.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 789
+},
+{
+    "id": "53392ecb4e3241809bd3156f9637215e",
+    "created": 1772401848,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 800,
+        "total_tokens": 890,
+        "completion_tokens": 90,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está trabajando y el NPC tiene saciedad baja. Es hora de comer.\",\n  \"Dialogo\": \"¡Tengo hambre! ¿Quieres compartir algo de comer?\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Leñador_11\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1293
+},
+{
+    "id": "8a736cb197ce462b9e660a01027d3bd1",
+    "created": 1772401849,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 770,
+        "total_tokens": 885,
+        "completion_tokens": 115,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Leñador_11) está trabajando y no ha respondido a mi última pregunta. Tengo niveles de vida óptimos, descanso bueno y saciedad media. Es hora de trabajar para mantener mi granja en orden.\",\n  \"Dialogo\": \"¡Bien, seguiré con mis labores entonces!\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 977
+},
+{
+    "id": "171a94cfa639424aaf357cc2abbed9d2",
+    "created": 1772401859,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 827,
+        "total_tokens": 940,
+        "completion_tokens": 113,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El minero está en buen estado y ha terminado de comer. El granjero está trabajando, lo que podría ser una buena oportunidad para conversar y ofrecer ayuda.\",\n  \"Dialogo\": \"¡Oye, Granjero_110! ¿Necesitas ayuda con eso?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Granjero_110\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1026
+},
+{
+    "id": "80840ac7b61243778003b33894c40b92",
+    "created": 1772401869,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 780,
+        "total_tokens": 880,
+        "completion_tokens": 100,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El guardia tiene un nivel de descanso óptimo, pero su saciedad y nivel social están en el rango bajo. El jugador no está presente en el contexto inmediato, por lo que el guardia puede continuar con su trabajo.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 872
+},
+{
+    "id": "c2c8c999f0a44c6db1df3f02b2dd3500",
+    "created": 1772401870,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 730,
+        "total_tokens": 815,
+        "completion_tokens": 85,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"La saciedad está baja y el jugador no está interactuando. Necesito comer para mantener mi energía.\",\n  \"Dialogo\": \"Necesito comer algo.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 823
+},
+{
+    "id": "827883ea94274b49905ef5ed7e1a3696",
+    "created": 1772401871,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 762,
+        "total_tokens": 853,
+        "completion_tokens": 91,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está trabajando y yo también. Tengo buena energía y descanso, pero necesito comer y socializar.\",\n  \"Dialogo\": \"¡Hola, vecino! ¿Cómo va el trabajo?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Jugador\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 826
+},
+{
+    "id": "df7b6a22bd784f75b58a4423e7e6baef",
+    "created": 1772401874,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 812,
+        "total_tokens": 889,
+        "completion_tokens": 77,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador no está interactuando directamente. Stats están en óptimo. Continuar con la labor.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 704
+},
+{
+    "id": "7ee655fff8254308b9525bf3a9c9abc0",
+    "created": 1772401878,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 834,
+        "total_tokens": 938,
+        "completion_tokens": 104,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Granjero_110) está trabajando y no parece necesitar ayuda. El NPC tiene estadísticas altas y no hay una necesidad urgente.\",\n  \"Dialogo\": \"¡El trabajo nunca se acaba, pero disfruto cada minuto!\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 990
+},
+{
+    "id": "acd2e67b5c7b421bb83d9865c8ea56d0",
+    "created": 1772401880,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 741,
+        "total_tokens": 829,
+        "completion_tokens": 88,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está comiendo y tiene niveles de vida, descanso, saciedad y social en niveles buenos. No hay interacción reciente con el jugador.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 779
+},
+{
+    "id": "c4d572e6702a445bacf7081959ef1f48",
+    "created": 1772401885,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 846,
+        "total_tokens": 936,
+        "completion_tokens": 90,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está en un buen estado general, pero ha estado inactivo por un tiempo. Es hora de volver al trabajo.\",\n  \"Dialogo\": \"¡Vamos, hay mucho que hacer!\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 787
+},
+{
+    "id": "9b26233c2eae4ac5b2e7ba4b7f60d755",
+    "created": 1772401888,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 757,
+        "total_tokens": 833,
+        "completion_tokens": 76,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador no ha interactuado recientemente. Las stats están bien, pero es hora de trabajar.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 713
+},
+{
+    "id": "94824c62cad3414cbccabf770b94f6b5",
+    "created": 1772401893,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 826,
+        "total_tokens": 937,
+        "completion_tokens": 111,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Minero_103) está trabajando y ha mostrado interés en ayudar. La saciedad está baja, pero el descanso es bueno. Priorizar comer para recuperar energía y luego seguir trabajando.\",\n  \"Dialogo\": \"¡Gracias por la oferta, pero primero necesito comer algo!\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1073
+},
+{
+    "id": "d080ccbafaeb4279864d10742caac713",
+    "created": 1772401899,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 787,
+        "total_tokens": 878,
+        "completion_tokens": 91,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de saciedad es bajo, pero el descanso es bueno. El jugador no está interactuando. Priorizar comer.\",\n  \"Dialogo\": \"Tengo hambre, voy a comer algo.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1311
+},
+{
+    "id": "1268461fa7804ccd94e98730a8ee042c",
+    "created": 1772401901,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 782,
+        "total_tokens": 872,
+        "completion_tokens": 90,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está conversando y el NPC tiene stats altos. El contexto sugiere continuar la conversación.\",\n  \"Dialogo\": \"¡Claro! Cuéntame más sobre tu día.\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Jugador\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1207
+},
+{
+    "id": "bc0a9cd191234de297209b41039eef14",
+    "created": 1772401902,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 772,
+        "total_tokens": 887,
+        "completion_tokens": 115,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El NPC está trabajando y tiene niveles de vida óptimos. El nivel de descanso es bueno, pero no crítico. El nivel de saciedad es medio, pero no crítico. El nivel social es medio. El jugador no está interactuando directamente, por lo que el NPC puede continuar trabajando.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1030
+},
+{
+    "id": "e7ca7db985fa47c5af9198f9690ec88e",
+    "created": 1772401907,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 808,
+        "total_tokens": 914,
+        "completion_tokens": 106,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está comiendo y tiene niveles de saciedad y descanso buenos. No hay una necesidad urgente de dormir o comer. El jugador puede estar disponible para conversar.\",\n  \"Dialogo\": \"¡Hola! ¿Cómo va tu día?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Guardia_105\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1045
+},
+{
+    "id": "03dbb13be8c046f1bdcfd811f718e482",
+    "created": 1772401913,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 793,
+        "total_tokens": 922,
+        "completion_tokens": 129,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador ha estado conversando y el NPC está en un estado de conversación. El NPC tiene niveles óptimos de vida y descanso, pero niveles medios de saciedad y social. El NPC es optimista y entusiasta, por lo que es probable que continúe la conversación.\",\n  \"Dialogo\": \"¡Me encanta escuchar tus historias! ¿Qué más has hecho hoy?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1246
+},
+{
+    "id": "b1cff7622a684a338e617d2b17277a18",
+    "created": 1772401914,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 788,
+        "total_tokens": 903,
+        "completion_tokens": 115,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El Guardia_105 está comiendo y tiene niveles de vida, descanso, saciedad y social en niveles buenos. El jugador Granjero_110 está cerca y ha estado conversando recientemente.\",\n  \"Dialogo\": \"¡Hola de nuevo! ¿Necesitas algo?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Granjero_110\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1053
+},
+{
+    "id": "63bc85f1d5a2471ab0f0468a9f95bafa",
+    "created": 1772401920,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 816,
+        "total_tokens": 928,
+        "completion_tokens": 112,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Guardia_105) está conversando. Mis stats están en buen estado, pero mi nivel social podría mejorar. El contexto sugiere que debería seguir conversando.\",\n  \"Dialogo\": \"¡Claro! Cuéntame más sobre tu día.\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Guardia_105\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1014
+},
+{
+    "id": "ba32bae6261949cda5e4d628df6999c8",
+    "created": 1772401925,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 805,
+        "total_tokens": 907,
+        "completion_tokens": 102,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Leñador_6) está interesado en conversar. Las stats están bien y el contexto lo permite.\",\n  \"Dialogo\": \"¡Claro! Hoy he estado patrullando y ayudando a los aldeanos.\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_6\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 978
+},
+{
+    "id": "6098bc659e8445e9816784f2b708af20",
+    "created": 1772401928,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 825,
+        "total_tokens": 936,
+        "completion_tokens": 111,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El minero está en un nivel óptimo de descanso, pero su saciedad y nivel social están en medio. El jugador no está interactuando directamente, por lo que es un buen momento para seguir trabajando.\",\n  \"Dialogo\": \"¡El trabajo nunca se acaba, pero disfruto cada minuto!\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 952
+},
+{
+    "id": "9bcc0185bce347e69e992e76e75e5292",
+    "created": 1772401931,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 829,
+        "total_tokens": 931,
+        "completion_tokens": 102,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Guardia_105) está conversando. Mis stats están en buen estado. Priorizo continuar la conversación.\",\n  \"Dialogo\": \"¡Me alegra verte de nuevo! ¿Qué tal tu día?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Guardia_105\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 927
+},
+{
+    "id": "f62b7476b4a24b1fbeea9f6a68720d48",
+    "created": 1772401932,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 813,
+        "total_tokens": 931,
+        "completion_tokens": 118,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador ha estado conversando y mostrando interés en las actividades de los demás. Mi nivel de descanso es óptimo y mi nivel de saciedad y social son medios. Es apropiado continuar conversando para mantener el nivel social alto.\",\n  \"Dialogo\": \"¡Ah, por cierto, he estado cortando leña todo el día!\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 1093
+},
+{
+    "id": "3d0337dd055a4fefaf487cb02ede0cc7",
+    "created": 1772401933,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 762,
+        "total_tokens": 839,
+        "completion_tokens": 77,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de saciedad es bajo, necesito comer para recuperar energía.\",\n  \"Dialogo\": \"Necesito comer algo.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 872
+},
+{
+    "id": "b5336ce3163747029d3eea86c24b87f9",
+    "created": 1772401935,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 821,
+        "total_tokens": 928,
+        "completion_tokens": 107,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Leñador_6) ha estado hablando sobre su día. Como guardia, es importante mantener una conversación amable y mostrar interés.\",\n  \"Dialogo\": \"¡Ah, cortar leña suena agotador! ¿Has tenido algún problema hoy?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_6\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 844
+},
+{
+    "id": "22347d798728484a86dbd0318be83684",
+    "created": 1772401937,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 763,
+        "total_tokens": 844,
+        "completion_tokens": 81,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El nivel de saciedad es bajo, necesito comer para recuperar energía y poder seguir trabajando.\",\n  \"Dialogo\": \"Necesito comer algo.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 900
+},
+{
+    "id": "4f815f0e116448ef969c6f190254ca22",
+    "created": 1772401943,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 856,
+        "total_tokens": 950,
+        "completion_tokens": 94,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador ha estado conversando y mostrando interés en las actividades de los demás. Es hora de seguir trabajando para mantener la productividad.\",\n  \"Dialogo\": \"¡Es hora de volver al trabajo! ¡Hasta luego!\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 930
+},
+{
+    "id": "288ca07d8667483c983f2cc9fdb4f2ed",
+    "created": 1772401946,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 758,
+        "total_tokens": 859,
+        "completion_tokens": 101,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está comiendo y yo también. Mi nivel de saciedad está bueno, pero no óptimo. Como soy disciplinado, seguiré comiendo para mantener mis estadísticas altas.\",\n  \"Dialogo\": \"Necesito mantener mis fuerzas.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 840
+},
+{
+    "id": "e628901cce2d411b8726210f62360234",
+    "created": 1772401947,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 859,
+        "total_tokens": 937,
+        "completion_tokens": 78,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador no está presente y las stats están en nivel medio. El NPC puede seguir con sus tareas diarias.\",\n  \"Dialogo\": \"\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Comer\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 790
+},
+{
+    "id": "051da69ed9ae4e609b1339fe0dbee022",
+    "created": 1772401949,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 847,
+        "total_tokens": 951,
+        "completion_tokens": 104,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador (Granjero_110) está trabajando. Mis stats están en niveles buenos. El contexto sugiere seguir trabajando o conversar.\",\n  \"Dialogo\": \"¿Necesitas ayuda con algo, Granjero?\",\n  \"Accion\": \"Trabajar\",\n  \"NPCobjetivo\": \"Granjero_110\",\n  \"IntencionFutura\": \"Conversar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 804
+},
+{
+    "id": "6cd030c3e1424e2daa3805b99ed58e29",
+    "created": 1772401950,
+    "model": "mistral-small-2503",
+    "usage": {
+        "prompt_tokens": 767,
+        "total_tokens": 868,
+        "completion_tokens": 101,
+        "prompt_tokens_details": {
+            "cached_tokens": 256
+        }
+    },
+    "object": "chat.completion",
+    "choices": [
+        {
+            "index": 0,
+            "finish_reason": "stop",
+            "message": {
+                "role": "assistant",
+                "tool_calls": null,
+                "content": "```json\n{\n  \"Razonamiento\": \"El jugador está comiendo y ha mencionado la importancia de mantener las fuerzas. Como leñador, debo seguir su ejemplo y asegurarme de estar en óptimas condiciones para trabajar.\",\n  \"Dialogo\": \"Comer es esencial para mantener la energía.\",\n  \"Accion\": \"Comer\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}\n```"
+            }
+        }
+    ],
+    "Latency": 816
+}
+]

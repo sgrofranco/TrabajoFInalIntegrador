@@ -1,0 +1,2999 @@
+[
+{
+    "id": "chatcmpl-DF83QgwAxGMC6ItTQztaIZPFDt21Q",
+    "object": "chat.completion",
+    "created": 1772498252,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El guardia está completamente descansado y en buen estado, por lo que puede realizar una acción que beneficie su día.\",\n  \"Dialogo\": \"¡Buen día! ¿En qué puedo ayudarte hoy?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Jugador\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 400,
+        "completion_tokens": 82,
+        "total_tokens": 482,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1143
+},
+{
+    "id": "chatcmpl-DF83RqbFrk6EVRZyj1VIjcLvW66jc",
+    "object": "chat.completion",
+    "created": 1772498253,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso está completo, pero es temprano y el día aún no exige trabajo.\",\n  \"Dialogo\": \"¡Vamos a bailar un poco para empezar bien el día!\",\n  \"Accion\": \"Festejar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 409,
+        "completion_tokens": 76,
+        "total_tokens": 485,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1240
+},
+{
+    "id": "chatcmpl-DF83SU2ADKjd3M1MBFj7GWQP8mY29",
+    "object": "chat.completion",
+    "created": 1772498254,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso está en nivel óptimo, pero la saciedad y vida también. Es momento de festejar y socializar.\",\n  \"Dialogo\": \"¡Vamos a bailar y celebrar, que hoy es un buen día!\",\n  \"Accion\": \"Festejar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 407,
+        "completion_tokens": 85,
+        "total_tokens": 492,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1501
+},
+{
+    "id": "chatcmpl-DF83T0xKEeycl6RJABRypuo6NhqUw",
+    "object": "chat.completion",
+    "created": 1772498255,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es óptimo, y es temprano en la mañana, por lo que puedo descansar para empezar bien el día.\",\n  \"Dialogo\": \"Creo que un poco de sueño me ayudará a estar mejor.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 402,
+        "completion_tokens": 83,
+        "total_tokens": 485,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1426
+},
+{
+    "id": "chatcmpl-DF83Ub231zsB7EeiMWfGi7nwYq3Fp",
+    "object": "chat.completion",
+    "created": 1772498256,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El leñador tiene un descanso óptimo, pero el contexto reciente muestra actividad social, por lo que puede seguir conversando o descansar si lo necesita.\",\n  \"Dialogo\": \"¡Buen día! ¿En qué puedo ayudarte hoy?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 450,
+        "completion_tokens": 89,
+        "total_tokens": 539,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1304
+},
+{
+    "id": "chatcmpl-DF83V4GJjLGN62ZH11g5LfxU3BJnR",
+    "object": "chat.completion",
+    "created": 1772498257,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El leñador está completamente descansado y con buena energía, puede trabajar o socializar.\",\n  \"Dialogo\": \"¡Buen día! ¿En qué puedo ayudar o con quién puedo conversar?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 450,
+        "completion_tokens": 79,
+        "total_tokens": 529,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1354
+},
+{
+    "id": "chatcmpl-DF83feEWYZxZfj0HYEr0lZbijK51x",
+    "object": "chat.completion",
+    "created": 1772498267,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es muy alto, por lo que es seguro dormir y descansar más.\",\n  \"Dialogo\": \"¡Hora de dormir y recargar energías para mañana!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 613,
+        "completion_tokens": 77,
+        "total_tokens": 690,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1017
+},
+{
+    "id": "chatcmpl-DF83hEE2lLQPgNba2LahMwWG6obbx",
+    "object": "chat.completion",
+    "created": 1772498269,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso está en nivel óptimo, no hay necesidad de dormir. La situación requiere atención y colaboración.\",\n  \"Dialogo\": \"¿Todo en orden, vecino? ¿Necesitas ayuda con algo?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 660,
+        "completion_tokens": 82,
+        "total_tokens": 742,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1480
+},
+{
+    "id": "chatcmpl-DF83i92PgFTCDddTXRQUZnF5xllwG",
+    "object": "chat.completion",
+    "created": 1772498270,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso está en nivel óptimo, puedo realizar una actividad social o laboral.\",\n  \"Dialogo\": \"¡Buen día! ¿En qué puedo ayudarte hoy?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 589,
+        "completion_tokens": 72,
+        "total_tokens": 661,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1217
+},
+{
+    "id": "chatcmpl-DF83j5rwnaMqqYfoXSAt07sYpkavI",
+    "object": "chat.completion",
+    "created": 1772498271,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso del NPC es muy alto, puede dormir para recuperar energía.\",\n  \"Dialogo\": \"¡Qué día tan genial! Pero creo que un descanso me vendría bien.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 643,
+        "completion_tokens": 77,
+        "total_tokens": 720,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1170
+},
+{
+    "id": "chatcmpl-DF83k9rsoodzkCWnMAevTFSXbmaPm",
+    "object": "chat.completion",
+    "created": 1772498272,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso está en nivel óptimo, no es urgente dormir. La salud y saciedad también son buenas, por lo que puedo realizar una actividad social o de trabajo.\",\n  \"Dialogo\": \"¡Buen día! ¿En qué puedo ayudarte hoy?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Trabajar\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 612,
+        "completion_tokens": 90,
+        "total_tokens": 702,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1397
+},
+{
+    "id": "chatcmpl-DF83r8fiKLhW1HrcEnN8MmqH3MZsn",
+    "object": "chat.completion",
+    "created": 1772498279,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El NPC está completamente descansado y con buena salud, por lo que no necesita dormir ni hacer nada en particular.\",\n  \"Dialogo\": \"¿Todo en orden, vecino? ¿Necesitas ayuda con algo?\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 696,
+        "completion_tokens": 84,
+        "total_tokens": 780,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1491
+},
+{
+    "id": "chatcmpl-DF83xk6TiAWuaPdLOv0gMQpiuzn8B",
+    "object": "chat.completion",
+    "created": 1772498285,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso es crítico, por lo que priorizo dormir para recuperarme.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para estar bien.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 673,
+        "completion_tokens": 73,
+        "total_tokens": 746,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1235
+},
+{
+    "id": "chatcmpl-DF83y0cK4op2Ye4y2Xntk1KiHFEQQ",
+    "object": "chat.completion",
+    "created": 1772498286,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso está en nivel crítico, prioridad de dormir para recuperarse.\",\n  \"Dialogo\": \"¡Es hora de dormir para recargar energías!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 675,
+        "completion_tokens": 72,
+        "total_tokens": 747,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 989
+},
+{
+    "id": "chatcmpl-DF841wZFdWTgOAK70LF9vq5Bbuxsr",
+    "object": "chat.completion",
+    "created": 1772498289,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso del NPC es óptimo, por lo que puede realizar una acción social o de rutina.\",\n  \"Dialogo\": \"¿Todo en orden, vecino? ¿Necesitas ayuda con algo?\",\n  \"Accion\": \"Conversar\",\n  \"NPCobjetivo\": \"Leñador_11\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 712,
+        "completion_tokens": 84,
+        "total_tokens": 796,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1364
+},
+{
+    "id": "chatcmpl-DF84ECPgyZybBy87bT1B84GeNiVa7",
+    "object": "chat.completion",
+    "created": 1772498302,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, priorizo dormir para recuperarme.\",\n  \"Dialogo\": \"Necesito dormir un poco para recargar energías.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 703,
+        "completion_tokens": 72,
+        "total_tokens": 775,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1888
+},
+{
+    "id": "chatcmpl-DF84KgUi95uRZmjnnLQ1X7bgj9m42",
+    "object": "chat.completion",
+    "created": 1772498308,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El NPC tiene niveles de descanso muy bajos, por lo que prioriza dormir.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir un poco.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 721,
+        "completion_tokens": 73,
+        "total_tokens": 794,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1086
+},
+{
+    "id": "chatcmpl-DF84S0KrVncRbB66RuHhoahjiCyB1",
+    "object": "chat.completion",
+    "created": 1772498316,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso del NPC es crítico, debe dormir para recuperarse.\",\n  \"Dialogo\": \"¡Hora de dormir y recargar energías, amigos!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 716,
+        "completion_tokens": 72,
+        "total_tokens": 788,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1109
+},
+{
+    "id": "chatcmpl-DF85Ao2uszfpejZtJvwEX4o0Wbvx0",
+    "object": "chat.completion",
+    "created": 1772498360,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso del NPC es crítico, debe dormir para recuperarse.\",\n  \"Dialogo\": \"¡Hora de dormir y recargar energías, amigos!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 714,
+        "completion_tokens": 72,
+        "total_tokens": 786,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1212
+},
+{
+    "id": "chatcmpl-DF85EtDMxR6AW7JFO5gJsojfimAzd",
+    "object": "chat.completion",
+    "created": 1772498364,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso está en nivel crítico, prioridad dormir para recuperarse.\",\n  \"Dialogo\": \"Necesito dormir para estar bien. ¡A descansar!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 709,
+        "completion_tokens": 71,
+        "total_tokens": 780,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1493
+},
+{
+    "id": "chatcmpl-DF85dFMWe7dNk3g7qbFSY39A9Y2YP",
+    "object": "chat.completion",
+    "created": 1772498389,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso del NPC es crítico, por lo que debe dormir para recuperarse.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para estar bien.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 703,
+        "completion_tokens": 74,
+        "total_tokens": 777,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1113
+},
+{
+    "id": "chatcmpl-DF85hufVIDgcL4CiYIdcTANzlMniA",
+    "object": "chat.completion",
+    "created": 1772498393,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, debo dormir para recuperarme.\",\n  \"Dialogo\": \"Necesito dormir para recargar energías, luego puedo ayudar.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 722,
+        "completion_tokens": 73,
+        "total_tokens": 795,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_21c5ec55b6",
+    "Latency": 1331
+},
+{
+    "id": "chatcmpl-DF85rYskHieZPbDgryeP9O6OLJUQP",
+    "object": "chat.completion",
+    "created": 1772498403,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, prioridad dormir para recuperarse.\",\n  \"Dialogo\": \"Necesito dormir para recargar energías.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 708,
+        "completion_tokens": 69,
+        "total_tokens": 777,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1073
+},
+{
+    "id": "chatcmpl-DF85uuXe6bYmmEeUUOt1U4zCVOc2q",
+    "object": "chat.completion",
+    "created": 1772498406,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso está en nivel óptimo, no es necesario dormir ni hacer nada urgente.\",\n  \"Dialogo\": \"¡Qué día tan alegre! ¿Qué puedo hacer por ti?\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 732,
+        "completion_tokens": 77,
+        "total_tokens": 809,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1212
+},
+{
+    "id": "chatcmpl-DF863lUVEisD3Nt9GCPHiiJtrNJzx",
+    "object": "chat.completion",
+    "created": 1772498415,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"Descanso muy bajo, prioridad de dormir para recuperar energía.\",\n  \"Dialogo\": \"¡Vaya, estoy agotado! Necesito dormir un rato.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 742,
+        "completion_tokens": 73,
+        "total_tokens": 815,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1352
+},
+{
+    "id": "chatcmpl-DF86mmgvI0epr1mCT5imMxHpPdEoM",
+    "object": "chat.completion",
+    "created": 1772498460,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso está en nivel óptimo, y la saciedad también es buena. No hay urgencia, por lo que puedo no hacer nada.\",\n  \"Dialogo\": \"¿En qué puedo ayudarte hoy, vecino?\",\n  \"Accion\": \"NoHacerNada\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"Conversar\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 715,
+        "completion_tokens": 85,
+        "total_tokens": 800,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1346
+},
+{
+    "id": "chatcmpl-DF86qM6IOQJYu5ychouUcgWebJIDj",
+    "object": "chat.completion",
+    "created": 1772498464,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, debo dormir para recargar energías.\",\n  \"Dialogo\": \"¡Es hora de dormir y recargar energías, amigos!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 718,
+        "completion_tokens": 75,
+        "total_tokens": 793,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1669
+},
+{
+    "id": "chatcmpl-DF86tZOvvQWz7ERA0LkXuYDLX98iy",
+    "object": "chat.completion",
+    "created": 1772498467,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso del NPC es crítico, debe dormir para recuperarse.\",\n  \"Dialogo\": \"Necesito dormir para estar bien, vuelvo en un rato.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 715,
+        "completion_tokens": 73,
+        "total_tokens": 788,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_74b07c99ad",
+    "Latency": 1290
+},
+{
+    "id": "chatcmpl-DF873CSm5gLF1jUtKIdLEsVkuRAHC",
+    "object": "chat.completion",
+    "created": 1772498477,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es muy bajo, prioridad de dormir para recuperarse.\",\n  \"Dialogo\": \"Necesito dormir para recargar energías.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 722,
+        "completion_tokens": 71,
+        "total_tokens": 793,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1278
+},
+{
+    "id": "chatcmpl-DF87FEjLvTRxOK8xmILNEFBUdhM8q",
+    "object": "chat.completion",
+    "created": 1772498489,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso está en nivel óptimo, y la saciedad y social son adecuados. No hay necesidad de hacer nada urgente, pero dado que es noche y el estado de descanso es alto, puedo dormir para mantenerme descansado.\",\n  \"Dialogo\": \"¡Hora de dormir y soñar con buenos chistes!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 752,
+        "completion_tokens": 105,
+        "total_tokens": 857,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1995
+},
+{
+    "id": "chatcmpl-DF87I17sqixrHnqobM3DIszcpjhdG",
+    "object": "chat.completion",
+    "created": 1772498492,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es muy bajo, prioridad de dormir para recuperarse.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para recargar energías.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 714,
+        "completion_tokens": 75,
+        "total_tokens": 789,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1424
+},
+{
+    "id": "chatcmpl-DF87VYO43DBUwzjHixrGA9n1eL9T5",
+    "object": "chat.completion",
+    "created": 1772498505,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, prioridad dormir para recuperarse.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para estar bien.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 714,
+        "completion_tokens": 71,
+        "total_tokens": 785,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1431
+},
+{
+    "id": "chatcmpl-DF87rfqOCsCa9zVbkhrxiERZ7qTUY",
+    "object": "chat.completion",
+    "created": 1772498527,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso es crítico, prioridad dormir para recuperarse.\",\n  \"Dialogo\": \"¡Hora de dormir y soñar con buenos chistes!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 752,
+        "completion_tokens": 70,
+        "total_tokens": 822,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1231
+},
+{
+    "id": "chatcmpl-DF87uSfrDcXlzUytDufrWrafEy8Qo",
+    "object": "chat.completion",
+    "created": 1772498530,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, prioridad dormir para recuperarse.\",\n  \"Dialogo\": \"Necesito dormir para estar bien, vuelvo en un rato.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 713,
+        "completion_tokens": 73,
+        "total_tokens": 786,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1109
+},
+{
+    "id": "chatcmpl-DF87yl9COpGDoYot1GkSxfj0DPBlq",
+    "object": "chat.completion",
+    "created": 1772498534,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, por lo tanto, debe dormir para recuperarse.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para recargar energías.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 731,
+        "completion_tokens": 77,
+        "total_tokens": 808,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1242
+},
+{
+    "id": "chatcmpl-DF888HEJGcGnqR0CtecMj5TyhgzwB",
+    "object": "chat.completion",
+    "created": 1772498544,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso está en nivel crítico, priorizo dormir para recuperar energía.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para recargar energías.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 721,
+        "completion_tokens": 74,
+        "total_tokens": 795,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1220
+},
+{
+    "id": "chatcmpl-DF88XNPDhuZjCbkt6P5Pc2H1CE8EJ",
+    "object": "chat.completion",
+    "created": 1772498569,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, por lo que priorizo dormir para recuperarme.\",\n  \"Dialogo\": \"¡Hora de dormir! Necesito recargar energías para mañana.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 727,
+        "completion_tokens": 78,
+        "total_tokens": 805,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1608
+},
+{
+    "id": "chatcmpl-DF88Yv124jmbPPoBIVhicyBtmzEzh",
+    "object": "chat.completion",
+    "created": 1772498570,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso está en nivel crítico, prioridad de dormir para recuperarse.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para estar bien.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 716,
+        "completion_tokens": 72,
+        "total_tokens": 788,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1110
+},
+{
+    "id": "chatcmpl-DF88avM3erkaJV9wMlHyd8ZL5hn3l",
+    "object": "chat.completion",
+    "created": 1772498572,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es muy bajo, priorizo dormir para recuperarme.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para recargar energías.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 747,
+        "completion_tokens": 75,
+        "total_tokens": 822,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1115
+},
+{
+    "id": "chatcmpl-DF88qyPZ8IcDvH57pBq53FB2LOv37",
+    "object": "chat.completion",
+    "created": 1772498588,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, por lo que priorizo dormir para recuperar energías.\",\n  \"Dialogo\": \"¡Hora de dormir y soñar con buenos chistes!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 760,
+        "completion_tokens": 77,
+        "total_tokens": 837,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 993
+},
+{
+    "id": "chatcmpl-DF89dZwq6UhApJJW1sakZPXEmcOXm",
+    "object": "chat.completion",
+    "created": 1772498637,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, prioridad dormir para recuperarse.\",\n  \"Dialogo\": \"Necesito dormir para estar bien, vuelvo en un rato.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 727,
+        "completion_tokens": 73,
+        "total_tokens": 800,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1220
+},
+{
+    "id": "chatcmpl-DF89m84QfR4KY9pOW9brMQNbykLkU",
+    "object": "chat.completion",
+    "created": 1772498646,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso está en nivel crítico, priorizo dormir para recuperar energía.\",\n  \"Dialogo\": \"¡Hora de dormir para recargar energías, amigos!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 739,
+        "completion_tokens": 73,
+        "total_tokens": 812,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1622
+},
+{
+    "id": "chatcmpl-DF89nzWgrGC2KN7SrN1aTik3Zn05A",
+    "object": "chat.completion",
+    "created": 1772498647,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, debe dormir para recuperarse.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para estar bien.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 728,
+        "completion_tokens": 71,
+        "total_tokens": 799,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1115
+},
+{
+    "id": "chatcmpl-DF89yqjduE3i2Jt96gUcilf6RmCeQ",
+    "object": "chat.completion",
+    "created": 1772498658,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso está en nivel crítico, priorizo dormir para recuperar energías.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para recargar energías.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 723,
+        "completion_tokens": 75,
+        "total_tokens": 798,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1373
+},
+{
+    "id": "chatcmpl-DF8ABKTH4Aqq0NHUXIfXPHvVWKkz7",
+    "object": "chat.completion",
+    "created": 1772498671,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, prioridad dormir para recuperarse.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para recargar energías.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 764,
+        "completion_tokens": 73,
+        "total_tokens": 837,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1412
+},
+{
+    "id": "chatcmpl-DF8ATUqzDVksn6VkT0qr05th2i0RK",
+    "object": "chat.completion",
+    "created": 1772498689,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso está en nivel crítico, prioridad dormir para recuperarse.\",\n  \"Dialogo\": \"Necesito dormir, vuelvo en un rato.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 737,
+        "completion_tokens": 70,
+        "total_tokens": 807,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1258
+},
+{
+    "id": "chatcmpl-DF8AetyMA0xih1dBUDyDBRr8ODcPz",
+    "object": "chat.completion",
+    "created": 1772498700,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso está en nivel crítico, prioridad dormir para recuperar energía.\",\n  \"Dialogo\": \"¡Hora de dormir, amigos! ¡Nos vemos en sueños felices!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 776,
+        "completion_tokens": 74,
+        "total_tokens": 850,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1203
+},
+{
+    "id": "chatcmpl-DF8Ar75vfo7Sz8ulNyVs4eefCVd97",
+    "object": "chat.completion",
+    "created": 1772498713,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es muy bajo, prioridad dormir para recuperarse.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para recargar energías.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 769,
+        "completion_tokens": 74,
+        "total_tokens": 843,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1043
+},
+{
+    "id": "chatcmpl-DF8AsMTnpF7tqzXOckZMyn1okBWG3",
+    "object": "chat.completion",
+    "created": 1772498714,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, prioridad dormir para recuperar energía.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para recargar energías.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 741,
+        "completion_tokens": 73,
+        "total_tokens": 814,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1537
+},
+{
+    "id": "chatcmpl-DF8BGBzgYnOwoMO0cgPsXtot9Uqcm",
+    "object": "chat.completion",
+    "created": 1772498738,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, priorizo dormir para recuperarme.\",\n  \"Dialogo\": \"Necesito dormir para estar bien. Vuelvo en un rato.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 754,
+        "completion_tokens": 75,
+        "total_tokens": 829,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1259
+},
+{
+    "id": "chatcmpl-DF8BNz2WleIvwTaAtwjs8hXuXJzBF",
+    "object": "chat.completion",
+    "created": 1772498745,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, prioridad dormir para recuperar energía.\",\n  \"Dialogo\": \"¡Hora de dormir! Necesito descansar para estar bien mañana.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 746,
+        "completion_tokens": 73,
+        "total_tokens": 819,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1113
+},
+{
+    "id": "chatcmpl-DF8BOFuyeyc85GUnXWmRYz5cOofrw",
+    "object": "chat.completion",
+    "created": 1772498746,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso es crítico, así que priorizo dormir para recuperar energía.\",\n  \"Dialogo\": \"¡Hora de dormir y soñar con buenos chistes!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 777,
+        "completion_tokens": 73,
+        "total_tokens": 850,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1895
+},
+{
+    "id": "chatcmpl-DF8BfqlG8dqBtP0jEWrNaBbhGmYww",
+    "object": "chat.completion",
+    "created": 1772498763,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso es crítico, por lo que priorizo dormir para recuperarme.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para estar bien.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 743,
+        "completion_tokens": 73,
+        "total_tokens": 816,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1226
+},
+{
+    "id": "chatcmpl-DF8BotKH7DtrBRhvDLtzbxasHmwpd",
+    "object": "chat.completion",
+    "created": 1772498772,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso es muy bajo, prioritario dormir para recuperar energías.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para recargar energías.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 773,
+        "completion_tokens": 74,
+        "total_tokens": 847,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1470
+},
+{
+    "id": "chatcmpl-DF8C2E9Dd9uWSP1y6sAecywBZZ8w4",
+    "object": "chat.completion",
+    "created": 1772498786,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El descanso es muy bajo, prioridad en dormir para recuperarse.\",\n  \"Dialogo\": \"¡Hora de dormir y soñar con buenos chistes!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 786,
+        "completion_tokens": 72,
+        "total_tokens": 858,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1547
+},
+{
+    "id": "chatcmpl-DF8C6iGFXAZ8yCvGHHrabJtQMQlb3",
+    "object": "chat.completion",
+    "created": 1772498790,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico (0), por lo que debe dormir inmediatamente para recuperarse.\",\n  \"Dialogo\": \"Necesito dormir para recargar energías ahora.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 767,
+        "completion_tokens": 76,
+        "total_tokens": 843,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1236
+},
+{
+    "id": "chatcmpl-DF8CcdzwLSCxHEiHnO1gRfXfud9fB",
+    "object": "chat.completion",
+    "created": 1772498822,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, prioridad dormir para recuperarse.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para estar bien.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 762,
+        "completion_tokens": 71,
+        "total_tokens": 833,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1645
+},
+{
+    "id": "chatcmpl-DF8Ceqo2VkXaTVUEgtlc1CFPe4g2o",
+    "object": "chat.completion",
+    "created": 1772498824,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es muy bajo, prioridad de dormir para recuperar energía.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para recargar energías.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 764,
+        "completion_tokens": 75,
+        "total_tokens": 839,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1497
+},
+{
+    "id": "chatcmpl-DF8ClIzOyT9zx7glfZA8CgxsMDUsR",
+    "object": "chat.completion",
+    "created": 1772498831,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es muy bajo, prioridad en dormir para recuperarse.\",\n  \"Dialogo\": \"¡Hora de dormir y recargar energías, amigos!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 772,
+        "completion_tokens": 74,
+        "total_tokens": 846,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1318
+},
+{
+    "id": "chatcmpl-DF8DIwz75LjHkeDuq6S6f1tAdF6Xa",
+    "object": "chat.completion",
+    "created": 1772498864,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es muy bajo, prioridad en dormir para recuperarse.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para recargar energías.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 774,
+        "completion_tokens": 75,
+        "total_tokens": 849,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1074
+},
+{
+    "id": "chatcmpl-DF8DfmQnbxgaOFkIMkW6nrfWOwnKk",
+    "object": "chat.completion",
+    "created": 1772498887,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, por lo que priorizo dormir.\",\n  \"Dialogo\": \"Necesito dormir para recargar energías ahora.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 761,
+        "completion_tokens": 71,
+        "total_tokens": 832,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1473
+},
+{
+    "id": "chatcmpl-DF8DtCMglF8VED3vSRjjlSIncYFgk",
+    "object": "chat.completion",
+    "created": 1772498901,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, priorizo dormir para recuperarme.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para recargar energías.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 766,
+        "completion_tokens": 74,
+        "total_tokens": 840,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1211
+},
+{
+    "id": "chatcmpl-DF8Dv9oALBkZozyQpCXMBw0TTjTkw",
+    "object": "chat.completion",
+    "created": 1772498903,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, por lo tanto, priorizo dormir para recuperar energía.\",\n  \"Dialogo\": \"¡Hora de dormir y soñar con buenos chistes!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 774,
+        "completion_tokens": 77,
+        "total_tokens": 851,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1126
+},
+{
+    "id": "chatcmpl-DF8DxGTP5x8JQOisW6XQMdmI73pCY",
+    "object": "chat.completion",
+    "created": 1772498905,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, prioridad dormir para recuperarse.\",\n  \"Dialogo\": \"¡Hora de dormir! Necesito descansar para estar bien mañana.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 774,
+        "completion_tokens": 73,
+        "total_tokens": 847,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1057
+},
+{
+    "id": "chatcmpl-DF8EULuq9RkWsRYwSVPDT52dsiO1X",
+    "object": "chat.completion",
+    "created": 1772498938,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es muy bajo (0), por lo que prioriza dormir para recuperarse.\",\n  \"Dialogo\": \"Necesito dormir para estar bien. La noche me llama.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 759,
+        "completion_tokens": 79,
+        "total_tokens": 838,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1211
+},
+{
+    "id": "chatcmpl-DF8EgTgf1zyGFGfLWuUds77VHMude",
+    "object": "chat.completion",
+    "created": 1772498950,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es muy bajo, por lo tanto, debe dormir para recuperarse.\",\n  \"Dialogo\": \"Necesito dormir para estar bien mañana.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 778,
+        "completion_tokens": 73,
+        "total_tokens": 851,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1413
+},
+{
+    "id": "chatcmpl-DF8EjlSrfrfKfFYDeqgqFe4ib8OGP",
+    "object": "chat.completion",
+    "created": 1772498953,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, prioridad dormir para recuperarse.\",\n  \"Dialogo\": \"¡Hora de dormir! Necesito descansar para estar bien mañana.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 777,
+        "completion_tokens": 73,
+        "total_tokens": 850,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1427
+},
+{
+    "id": "chatcmpl-DF8F1nl5rGP4VLZkQxMHtk1lO8RNq",
+    "object": "chat.completion",
+    "created": 1772498971,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es muy bajo, prioridad de dormir para recuperarse.\",\n  \"Dialogo\": \"Necesito dormir para estar bien, prioridad ahora.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 761,
+        "completion_tokens": 72,
+        "total_tokens": 833,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1141
+},
+{
+    "id": "chatcmpl-DF8FJBq79aYt4zhlKyJ1ii33gdA7D",
+    "object": "chat.completion",
+    "created": 1772498989,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es muy bajo (0/100), por lo que priorizo dormir.\",\n  \"Dialogo\": \"Necesito descansar para estar bien, vuelvo en un rato.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 760,
+        "completion_tokens": 79,
+        "total_tokens": 839,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1170
+},
+{
+    "id": "chatcmpl-DF8FMYvgDfrB9NEMiGw8CwaIZoFy6",
+    "object": "chat.completion",
+    "created": 1772498992,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, prioridad dormir para recuperar energía.\",\n  \"Dialogo\": \"¡Hora de dormir y soñar con buenos chistes!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 769,
+        "completion_tokens": 72,
+        "total_tokens": 841,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1297
+},
+{
+    "id": "chatcmpl-DF8FmWHzgygzEwKLzJXwdojGyYPg1",
+    "object": "chat.completion",
+    "created": 1772499018,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es muy bajo, prioridad de dormir para recuperarse.\",\n  \"Dialogo\": \"Necesito dormir, mi cuerpo me lo pide urgentemente.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 761,
+        "completion_tokens": 74,
+        "total_tokens": 835,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1364
+},
+{
+    "id": "chatcmpl-DF8Fn5944ZypZJfyu711YfuevC43u",
+    "object": "chat.completion",
+    "created": 1772499019,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, por lo que priorizo dormir.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para recargar energías.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 762,
+        "completion_tokens": 74,
+        "total_tokens": 836,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1057
+},
+{
+    "id": "chatcmpl-DF8G8tQvb47o5d2FeB9WgkUX08HEj",
+    "object": "chat.completion",
+    "created": 1772499040,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico (0/100), por lo que priorizo dormir.\",\n  \"Dialogo\": \"¡Hora de dormir y soñar con buenos chistes!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 757,
+        "completion_tokens": 77,
+        "total_tokens": 834,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1036
+},
+{
+    "id": "chatcmpl-DF8GCXJf3YdAm9F83gOW4JefLL04N",
+    "object": "chat.completion",
+    "created": 1772499044,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, prioridad dormir para recuperarse.\",\n  \"Dialogo\": \"¡Hora de dormir! Necesito descansar para estar bien mañana.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 765,
+        "completion_tokens": 73,
+        "total_tokens": 838,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1324
+},
+{
+    "id": "chatcmpl-DF8GGMWWl8VQmhmkDiTz7YfEFjf7V",
+    "object": "chat.completion",
+    "created": 1772499048,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es muy bajo, prioridad en dormir para recuperarse.\",\n  \"Dialogo\": \"¡Necesito dormir para recargar energías ahora!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 759,
+        "completion_tokens": 73,
+        "total_tokens": 832,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 977
+},
+{
+    "id": "chatcmpl-DF8GdF0LX8aVJlysYpXa7VDRpatDs",
+    "object": "chat.completion",
+    "created": 1772499071,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, priorizando dormir para recuperarse.\",\n  \"Dialogo\": \"Necesito dormir ahora para estar bien mañana.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 757,
+        "completion_tokens": 70,
+        "total_tokens": 827,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1403
+},
+{
+    "id": "chatcmpl-DF8GuSk1cUw12xCXEyNSzMquTaxot",
+    "object": "chat.completion",
+    "created": 1772499088,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico (0/100), por lo que priorizo dormir.\",\n  \"Dialogo\": \"¡Hora de dormir y soñar con buenos chistes!\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 760,
+        "completion_tokens": 77,
+        "total_tokens": 837,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1204
+},
+{
+    "id": "chatcmpl-DF8Gvbh1PNhNmGW1bmpy40AlOWxAB",
+    "object": "chat.completion",
+    "created": 1772499089,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, prioridad dormir para recuperarse.\",\n  \"Dialogo\": \"Estoy muy cansado, necesito dormir para recargar energías.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 748,
+        "completion_tokens": 73,
+        "total_tokens": 821,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1053
+},
+{
+    "id": "chatcmpl-DF8HGqmazwbAstwYTdK69oBfzoG5U",
+    "object": "chat.completion",
+    "created": 1772499110,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es muy bajo, prioridad en dormir para recuperarse.\",\n  \"Dialogo\": \"Mi cuerpo me pide dormir, necesito descansar ahora.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 748,
+        "completion_tokens": 72,
+        "total_tokens": 820,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1435
+},
+{
+    "id": "chatcmpl-DF8HattVssCTyfHszi2HP2KJvKtCc",
+    "object": "chat.completion",
+    "created": 1772499130,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es muy bajo, prioridad en dormir para recuperar energía.\",\n  \"Dialogo\": \"Mi cuerpo me pide dormir, necesito descansar ahora.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 746,
+        "completion_tokens": 72,
+        "total_tokens": 818,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1642
+},
+{
+    "id": "chatcmpl-DF8HlUHz3HeIizJmgEiEKN0FPeCp4",
+    "object": "chat.completion",
+    "created": 1772499141,
+    "model": "gpt-4.1-nano-2025-04-14",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Razonamiento\": \"El nivel de descanso es crítico, prioridad dormir para recuperarse.\",\n  \"Dialogo\": \"¡Hora de dormir, amigos! Necesito descansar bien.\",\n  \"Accion\": \"Dormir\",\n  \"NPCobjetivo\": \"Nadie\",\n  \"IntencionFutura\": \"NoHacerNada\"\n}",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 763,
+        "completion_tokens": 72,
+        "total_tokens": 835,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_336de151a4",
+    "Latency": 1178
+}
+]

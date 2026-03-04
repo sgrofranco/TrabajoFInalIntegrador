@@ -1,0 +1,6 @@
+=== RESUMEN SESIÓN - ETAPA 3 ===
+Modelo detectado: mistral-large-2411
+Requests totales: 171 | OK: 171
+Latencia p50: 2.585s | p95: 4.081s
+Tokens totales (in+out): 181844
+Exportación completa: CSVs y los 4 gráficos estilo 'Etapa 1' han sido generados.
