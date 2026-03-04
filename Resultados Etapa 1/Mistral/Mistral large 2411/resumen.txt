@@ -1,0 +1,7 @@
+=== RESUMEN SESIÓN ===
+Modelo: mistral-large-2411
+NPCs: 5 | Duración: 15 min | Media intervalo: 20.0s
+Requests totales: 206 | OK: 206 | Errores: 0 | JSON inválido: 0
+Latencia p50: 1.319s | p95: 2.367s
+Tokens totales (in+out): 87609
+Costo total estimado: $0.0088 USD

@@ -1,0 +1,7 @@
+=== RESUMEN SESIÓN ===
+Proveedor: google | Modelo: gemini-2.5-flash-lite
+NPCs: 15 | Duración: 1.0 min | Media intervalo: 20.0s
+Requests totales: 230 | OK: 31 | Errores: 199 | JSON inválido: 0
+Latencia p50: 0.809s | p95: 1.586s
+Tokens totales (in+out): 9110
+Costo: N/A (sin precios configurados).

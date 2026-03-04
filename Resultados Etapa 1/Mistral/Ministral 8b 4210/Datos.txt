@@ -1,0 +1,7 @@
+=== RESUMEN SESIÓN ===
+Modelo: ministral-8b-2410
+NPCs: 5 | Duración: 15 min | Media intervalo: 20.0s
+Requests totales: 210 | OK: 210 | Errores: 0 | JSON inválido: 0
+Latencia p50: 0.595s | p95: 0.734s
+Tokens totales (in+out): 67579
+Costo total estimado: $0.0068 USD

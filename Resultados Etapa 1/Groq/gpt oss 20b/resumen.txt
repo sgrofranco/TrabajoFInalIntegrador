@@ -1,0 +1,7 @@
+=== RESUMEN SESIÓN ===
+Proveedor: groq | Modelo: openai/gpt-oss-20b
+NPCs: 5 | Duración: 15 min | Media intervalo: 20.0s
+Requests totales: 217 | OK: 199 | Errores: 18 | JSON inválido: 0
+Latencia p50: 0.856s | p95: 4.358s
+Tokens totales (in+out): 128482
+Costo: N/A (sin precios configurados).

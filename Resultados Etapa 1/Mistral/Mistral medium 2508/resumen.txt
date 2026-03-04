@@ -1,0 +1,7 @@
+=== RESUMEN SESIÓN ===
+Modelo: mistral-medium-2508
+NPCs: 5 | Duración: 15 min | Media intervalo: 20.0s
+Requests totales: 208 | OK: 197 | Errores: 11 | JSON inválido: 0
+Latencia p50: 1.468s | p95: 3.532s
+Tokens totales (in+out): 72926
+Costo total estimado: $0.0073 USD

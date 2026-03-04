@@ -1,0 +1,7 @@
+=== RESUMEN SESIÓN ===
+Proveedor: groq | Modelo: llama-3.1-8b-instant
+NPCs: 5 | Duración: 15 min | Media intervalo: 20.0s
+Requests totales: 211 | OK: 211 | Errores: 0 | JSON inválido: 6
+Latencia p50: 0.475s | p95: 0.623s
+Tokens totales (in+out): 79460
+Costo: N/A (sin precios configurados).
