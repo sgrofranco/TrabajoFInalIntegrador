@@ -1,0 +1,7 @@
+=== RESUMEN SESIÓN ===
+Proveedor: openai | Modelo: gpt-4o-mini
+NPCs: 5 | Duración: 15 min | Media intervalo: 20.0s
+Requests totales: 188 | OK: 188 | Errores: 0 | JSON inválido: 0
+Latencia p50: 1.680s | p95: 3.329s
+Tokens totales (in+out): 54374
+Costo estimado (USD por 1M tokens): 0.011813 USD

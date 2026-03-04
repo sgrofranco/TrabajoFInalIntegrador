@@ -1,0 +1,7 @@
+=== RESUMEN SESIÓN ===
+Proveedor: openai | Modelo: gpt-4.1-nano
+NPCs: 5 | Duración: 15 min | Media intervalo: 20.0s
+Requests totales: 189 | OK: 189 | Errores: 0 | JSON inválido: 0
+Latencia p50: 1.137s | p95: 1.807s
+Tokens totales (in+out): 53547
+Costo estimado (USD por 1M tokens): 0.003984 USD

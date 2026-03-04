@@ -1,0 +1,7 @@
+=== RESUMEN SESIÓN ===
+Proveedor: openai | Modelo: gpt-5-nano
+NPCs: 5 | Duración: 15 min | Media intervalo: 20.0s
+Requests totales: 156 | OK: 156 | Errores: 0 | JSON inválido: 0
+Latencia p50: 6.819s | p95: 10.456s
+Tokens totales (in+out): 209326
+Costo estimado (USD por 1M tokens): 0.068634 USD
